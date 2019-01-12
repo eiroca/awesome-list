@@ -5,9 +5,8 @@
 
 ### Cross / Develop
 *  [6502bench](https://github.com/fadden/6502bench) A workbench for developing 6502 code
-*  [65816.tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
+*  [65816 tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
 *  [Apple2BuildPipeline](https://github.com/blondie7575/Apple2BuildPipeline) A build pipeline (with sample project) for making Apple ][ software on OS X
-*  [Apple2BuildPipeline](https://github.com/jeremysrand/Apple2BuildPipeline) A build pipeline for making Apple II software on OS X
 *  [AS65](https://github.com/softwarejanitor/as65) Simple 65C02 mini-assembler
 *  [AsmGen](https://github.com/robmcmullen/asmgen) 6502 assembly code generator for sprites, fonts and images (Apple II and Atari). Written in Python with documenation. There are alot of other interesting repositories on his site also
 *  [asmMerlin65816.vim](https://github.com/digarok/asmMerlin65816.vim) MOS 6502,65c02,65816 Assembly syntax + Merlin Add-Ons
@@ -24,6 +23,7 @@
 *  [AtomBusMon](https://github.com/hoglet67/AtomBusMon) An Incircuit Emulator for 6502, 65C02, Z80 and 6809. I don't think this has been tested on an Apple II as yet
 *  [ossc](https://github.com/marqs85/ossc) Open Source Scan Converter. Board designed for connecting retro video game consoles and home computers into modern displays
 ### Cross / Tools
+*  :thumbsup: [Apple ][ Graphic](https://www.eiroca.net/wiki/software/desktop/apple2_graphic) Programs and library to draw old Apple ][ graphics formats. Support for HGR, DHGR and Apple 2 GS $C1 format with export to BMP. Support also for apple shape
 *  :thumbsup: [Apple Commander](https://github.com/AppleCommander/AppleCommander) AppleCommander is a tool that manipulates Apple ][ disk images. Files may be imported, exported, viewed, or printed with various file filters
 *  [a2rchery](https://github.com/a2-4am/a2rchery) A multi-purpose tool for manipulating .a2r disk images
 *  [a2reinterleave](https://github.com/brouhaha/a2reinterleave) Convert interleave (sector ordering) of Apple II 5.25-inch floppy disk images
@@ -32,6 +32,7 @@
 *  [Analyst](https://github.com/retrogear/Analyst) Analyst debugger for Apple II
 *  [apple2_png_to_hgr](https://github.com/Michaelangel007/apple2_png_to_hgr) Convert PNG to HGR bytes
 *  [apple2_prodos_utils](https://github.com/Michaelangel007/apple2_prodos_utils) Apple 2 virtual DSK tools for ProDOS volumes
+*  [apple2-converters](https://github.com/ericfischer/apple2-converters) Programs I wrote many years ago to convert Apple II binary file formats to things that are usable on current systems
 *  [apple2-image-encoder](https://github.com/a2geek/apple2-image-encoder) Convert a modern image into a format usable by an Apple II
 *  [AppleIIDHGRConverter](https://github.com/markpmlim/AppleIIDHGRConverter) Apple2ColorDHGR.playround is a Swift playground for loading and viewing coloured Apple II Double Hires graphic files
 *  [Apple-II-Disk-Tools](https://github.com/cmosher01/Apple-II-Disk-Tools) A few command line tools for manipulating Apple ][ series floppy disk images
@@ -57,6 +58,7 @@
 *  [hexmon](https://github.com/simonboak/hexmon) Apple II system monitor-style hexdump
 *  [nulib2](https://github.com/fadden/nulib2) NufxLib and NuLib2, Apple II file archive utilities
 *  [passport.py](https://github.com/a2-4am/passport.py) A verification and copy program
+*  [ProDisk](https://www.eiroca.net/wiki/software/incubator/prodisk) Imports/exports file(s) between Ms-Dos and ProDos HD Image used by Apple2 emulators like ApplePC
 *  [profuse](https://github.com/ksherlock/profuse) ProDOS file system for FUSE
 *  [radius](https://github.com/digarok/radius) 6502 / 65816 Merlin-style assembly code indenter tool
 *  [Rgb2Hires](https://github.com/Pixinn/Rgb2Hires) Converts an RGB image (.png, .jpeg) into a binary file compliant with the Apple II's HIRES format
@@ -115,10 +117,11 @@
 *  [apple2js](https://github.com/whscullin/apple2js) An Apple II emulator written in Javascript
 *  [apple3rtr](https://github.com/datajerk/apple3rtr) Apple /// Ready-to-Run
 *  [applelin](https://github.com/gungwald/applelin) A continuation of linapple, which is a port of AppleWin to Linux
+*  [applepy](https://github.com/jtauber/applepy) An Apple ][ emulator in Python
 *  [AppleWin](https://github.com/AppleWin/AppleWin) Apple II emulator for Windows
 *  [arduino-appleii](https://github.com/dpeckett/arduino-appleii) Emulating the original Apple II microcomputer on an Arduino Uno microcontroller
 *  [CLK](https://github.com/TomHarte/CLK) An emulator of the Acorn Electron, Amstrad CPC, Apple II/II+/IIe, Atari 2600, ColecoVision, Commodore Vic-20, MSX 1, Oric 1/Atmos, Sega Master System and Sinclair ZX80/81
-*  [EPPLE ][](https://github.com/cmosher01/Epple-II) EPPLE ][ is an emulator of the Apple ][ computer
+*  [EPPLE](https://github.com/cmosher01/Epple-II) EPPLE ][ is an emulator of the Apple ][ computer
 *  [fruitmachine](https://github.com/Luigi30/fruitmachine) Apple I emulator
 *  [FruitMachine-Swift](https://github.com/Luigi30/FruitMachine-Swift) Fruit Machine Apple I emulator, but in Swift
 *  [gamebloke](https://github.com/prickle/gamebloke) Apple on the go. Take that gameboy!
@@ -145,8 +148,8 @@
 *  [serial-wifi](https://github.com/option8/serial-wifi) A serial-to-wifi adapter for the Apple II
 ### Misc
 *  [abandonware](https://github.com/apple2abandonware/abandonware) Apple II Abandonware
-*  [Apple2](https://github.com/damauk/Apple2) Apple II related projects
-*  [apple2](https://github.com/nategri/apple2) Various Apple II related projects
+*  [Apple 2 projects](https://github.com/damauk/Apple2) Apple II related projects
+*  [Apple 2 projects](https://github.com/nategri/apple2) Various Apple II related projects
 *  [asm816](https://github.com/ksherlock/asm816) Automatically exported from code.google.com/p/asm816
 *  [IIgsResource](https://github.com/ksherlock/iigsresources/tree/master/IIgsResource) Automatically exported from code.google.com/p/iigsresources
 *  [lessismore](https://github.com/apple2abandonware/lessismore) Collection of the very best Apple ][ abandonware
@@ -166,6 +169,7 @@
 *  [Apple-II-System-Masters](https://github.com/cmosher01/Apple-II-System-Masters) Collection of System Master disk images for the Apple ][ series computers
 *  [apple-II-videos](https://github.com/frankmilliron/apple-II-videos) Full-speed lores video playback on the Apple II-series computers
 *  [bunzip2](https://github.com/sheumann/bunzip2) Bzip2 decompressor for GNO
+*  [Davex](https://github.com/david-schmidt/Davex) Davex is a command-line shell for the Apple II family of computers. Davex runs on ProDOS 8, and a subset of functionality is ported to SOS
 *  [delhndlr](https://github.com/gungwald/delhndlr) Makes the Delete key work as expected on an Apple II in ProDOS BASIC.SYSTEM
 *  [dict](https://github.com/ksherlock/dict) IIgs dict (RFC 2229) client
 *  [dmake](https://github.com/sheumann/dmake) Make tool for GNO
@@ -191,6 +195,7 @@
 *  [Undertale_AppleII](https://github.com/meladroit/Undertale_AppleII) Undertale music/graphics demo for Apple IIe/IIc computers with 64K RAM or more
 *  [VNCviewGS](https://github.com/sheumann/VNCviewGS) VNCview GS: The VNC client for the Apple IIgs
 ### Software / Games
+*  [AII2048](https://github.com/david-schmidt/AII2048) Apple II 2048 Game
 *  [Apple_IIe_Snake](https://github.com/alonf/Apple_IIe_Snake) Apple II Snake game written in 6502 Assembly
 *  [appleii_lander](https://github.com/jonathonwebb/appleii_lander) A Lunar Lander Game written in Applesoft Basic for the Apple ii
 *  [codebreaker](https://github.com/datajerk/codebreaker) CODEBREAKER! is a Mastermind implementation for the Apple-1 computer
