@@ -1,3 +1,8 @@
+# Awesome List of Apple 2 resources
+
+## Related
+* [Awesome List of 6502, 65C02, 65816, ...  resources](6502.md)
+
 ### Cross / Develop
 *  [6502bench](https://github.com/fadden/6502bench) A workbench for developing 6502 code
 *  [65816.tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
@@ -19,7 +24,7 @@
 *  [AtomBusMon](https://github.com/hoglet67/AtomBusMon) An Incircuit Emulator for 6502, 65C02, Z80 and 6809. I don't think this has been tested on an Apple II as yet
 *  [ossc](https://github.com/marqs85/ossc) Open Source Scan Converter. Board designed for connecting retro video game consoles and home computers into modern displays
 ### Cross / Tools
-* .!. [Apple Commander](https://github.com/AppleCommander/AppleCommander) AppleCommander is a tool that manipulates Apple ][ disk images. Files may be imported, exported, viewed, or printed with various file filters
+*  :thumbsup: [Apple Commander](https://github.com/AppleCommander/AppleCommander) AppleCommander is a tool that manipulates Apple ][ disk images. Files may be imported, exported, viewed, or printed with various file filters
 *  [a2rchery](https://github.com/a2-4am/a2rchery) A multi-purpose tool for manipulating .a2r disk images
 *  [a2reinterleave](https://github.com/brouhaha/a2reinterleave) Convert interleave (sector ordering) of Apple II 5.25-inch floppy disk images
 *  [a2tools](https://github.com/catseye/a2tools) Cat's Eye Technologies' fork of a2tools Apple II disk image utilities
@@ -62,7 +67,7 @@
 ### Develop
 *  [EightBall](https://github.com/bobbimanners/EightBall) An 8-bit algorithmic languange for Apple II, C64, Vic 20. Includes: Interpreter, Bytecode compiler, Virtual Machine, Bytecode disassembler
 ### Develop / Library
-* .!. [WeeGUI](https://github.com/a2-4am/WeeGUI) A compact and easy to use GUI library for 8-bit Apple ][ computers
+*  :thumbsup: [WeeGUI](https://github.com/a2-4am/WeeGUI) A compact and easy to use GUI library for 8-bit Apple ][ computers
 *  [6502](https://github.com/option8/6502) 6502 Assembly source files, utilities, bits and bobs. Mostly Apple II
 *  [65816-crypto](https://github.com/sheumann/65816-crypto) Crypto algorithm implementations for the 65816
 *  [a2graph](https://github.com/pedgarcia/a2graph) CC65 Lo-Res graphic library for the Apple II
@@ -83,8 +88,8 @@
 *  [SpriteGen](https://github.com/blondie7575/SpriteGen) A hi-res sprite generator for the Apple II. It takes PNG files and produces assembly source files with data statements that can be rendered with the included sprite drawing code
 *  [standard-delivery](https://github.com/a2-4am/standard-delivery) Apple II single-sector fast boot-loader
 ### Develop / Tools
-* .!. [ORCA-C](https://github.com/byteworksinc/ORCA-C) Apple IIGS ORCA/C Compiler, an ANSI C compiler for the 65816 with libraries for the Apple IIGS
-* .!. [ORCA-Pascal](https://github.com/byteworksinc/ORCA-Pascal) Apple IIGS ORCA/Pascal Compiler, an ISO Pascal compiler for the 65816 with libraries for the Apple IIGS
+*  :thumbsup: [ORCA-C](https://github.com/byteworksinc/ORCA-C) Apple IIGS ORCA/C Compiler, an ANSI C compiler for the 65816 with libraries for the Apple IIGS
+*  :thumbsup: [ORCA-Pascal](https://github.com/byteworksinc/ORCA-Pascal) Apple IIGS ORCA/Pascal Compiler, an ISO Pascal compiler for the 65816 with libraries for the Apple IIGS
 *  [a2-chargen-1987](https://github.com/codebur/a2-chargen-1987) HGR Character Generator for the Apple //
 *  [Apple-Befunge](https://github.com/catseye/Apple-Befunge) A dialect of Befunge for the 8-bit Apple II (or Apple ][+ or Apple //e)
 *  [C02](https://github.com/RevCurtisP/C02) I'll add my language and compiler for the 6502 that I just put up on GitHub. I don't have library support for Apple ][ yet. I'll have to add that
