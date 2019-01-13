@@ -4,16 +4,11 @@
 * [Awesome List of 6502, 65C02, 65816, ...  resources](6502.md)
 
 ### Cross / Develop
-*  [AsmGen](https://github.com/robmcmullen/asmgen) 6502 assembly code generator for sprites, fonts and images (Apple II and Atari). Written in Python with documenation. There are alot of other interesting repositories on his site also
 *  [65816 tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
 *  [Apple2BuildPipeline](https://github.com/blondie7575/Apple2BuildPipeline) A build pipeline (with sample project) for making Apple ][ software on OS X
-*  [6502bench](https://github.com/fadden/6502bench) A workbench for developing 6502 code
 *  [regs](https://github.com/mrkite/regs) Apple IIgs reverse engineer tools
-*  [Merlin32ForVSCode](https://github.com/OlivierGuinart/Merlin32ForVSCode) Merlin32 extension for Visual Studio Code
-*  [asmMerlin65816.vim](https://github.com/digarok/asmMerlin65816.vim) MOS 6502,65c02,65816 Assembly syntax + Merlin Add-Ons
 *  [libsane](https://github.com/ksherlock/libsane) SANE - Standard Apple Numerics Environment. A reimplementation thereof
 *  [BASIC.tmbundle](https://github.com/ksherlock/BASIC.tmbundle) TextMate tmbundle for various Apple II BASIC dialects
-*  [Merlin32Language](https://github.com/OlivierGuinart/Merlin32Language) Visual Studio language service for 6502 Merlin32 cross-assembler
 *  [CC65BuildSolution](https://github.com/OlivierGuinart/CC65BuildSolution) Visual Studio makefile solution to build Apple II projects with CC65
 *  [Merlin32BuildSolution](https://github.com/OlivierGuinart/Merlin32BuildSolution) Visual Studio makefile solution to build Apple II projects with Merlin32
 ### Cross / Hardware
@@ -23,7 +18,7 @@
 *  [ossc](https://github.com/marqs85/ossc) Open Source Scan Converter. Board designed for connecting retro video game consoles and home computers into modern displays
 ### Cross / Tools
 *  :thumbsup: [Apple Commander](https://github.com/AppleCommander/AppleCommander) AppleCommander is a tool that manipulates Apple ][ disk images. Files may be imported, exported, viewed, or printed with various file filters
-*  :thumbsup: [Apple ][ Graphic](https://www.eiroca.net/wiki/software/desktop/apple2_graphic) Programs and library to draw old Apple ][ graphics formats. Support for HGR, DHGR and Apple 2 GS $C1 format with export to BMP. Support also for apple shape
+*  :thumbsup: [Apple2 Graphic](https://www.eiroca.net/wiki/software/desktop/apple2_graphic) Programs and library to draw old Apple ][ graphics formats. Support for HGR, DHGR and Apple 2 GS $C1 format with export to BMP. Support also for apple shape
 *  [radius](https://github.com/digarok/radius) 6502 / 65816 Merlin-style assembly code indenter tool
 *  [copy](https://github.com/gungwald/copy) A command to copy files in BASIC.SYSTEM on an Apple II
 *  [dsk2woz](https://github.com/TomHarte/dsk2woz) A command-line tool to convert Apple II DSK images to WOZ format
@@ -81,7 +76,6 @@
 *  [libsoundGS](https://github.com/cshepherd/libsoundGS) Apple IIGS sound library
 *  [a2graph](https://github.com/pedgarcia/a2graph) CC65 Lo-Res graphic library for the Apple II
 *  [gscifs](https://github.com/cshepherd/gscifs) CIFS implementation for the Apple IIGS using Marinetti TCP/IP stack
-*  [Contiki](https://github.com/oliverschmidt/contiki) Contiki OS for 6502 based computers. TCP/IP stack for 6502
 *  [65816-crypto](https://github.com/sheumann/65816-crypto) Crypto algorithm implementations for the 65816
 *  [apple2-fonts](https://github.com/gungwald/apple2-fonts) Experimentation with custom fonts on HGR screen
 *  [qboot](https://github.com/peterferrie/qboot) Fast bootable Read Track/Sector routine (multi)
@@ -119,6 +113,8 @@
 *  [greenscale](https://github.com/option8/greenscale) Low res monochrome experiments for Apple II
 *  [APLOC2](https://github.com/nednal12/APLOC2) Master directory for Apple Programming Language Objective C II
 ### Emulator
+*  :thumbsup: [AppleWin](https://github.com/AppleWin/AppleWin) Apple ][ emulator for Windows
+*  :thumbsup: [Kegs](http://kegs.sourceforge.net/) Apple IIgs emulator for Mac OS X, Win32, Linux, and Unix/X11
 *  [applelin](https://github.com/gungwald/applelin) A continuation of linapple, which is a port of AppleWin to Linux
 *  [CLK](https://github.com/TomHarte/CLK) An emulator of the Acorn Electron, Amstrad CPC, Apple II/II+/IIe, Atari 2600, ColecoVision, Commodore Vic-20, MSX 1, Oric 1/Atmos, Sega Master System and Sinclair ZX80/81
 *  [apple3rtr](https://github.com/datajerk/apple3rtr) Apple /// Ready-to-Run
@@ -128,7 +124,6 @@
 *  [POM1](https://github.com/sicklittlemonkey/AppleIIGo) Apple //e emulator Java applet
 *  [grape](https://github.com/LemonBoy/grape) Apple ][ emulator for Nintendo DS
 *  [Apple2000](https://github.com/kkralian/Apple2000) Apple ][ emulator for the Amiga
-*  [AppleWin](https://github.com/AppleWin/AppleWin) Apple ][ emulator for Windows
 *  [applepy](https://github.com/jtauber/applepy) Apple ][ emulator in Python
 *  [japple2](https://sourceforge.net/projects/japple2) Apple ][ Emulator written in Java
 *  [apple2js](https://github.com/whscullin/apple2js) Apple ][ emulator written in Javascript
@@ -136,6 +131,8 @@
 *  [fruitmachine](https://github.com/Luigi30/fruitmachine) Apple I emulator
 *  [POM1](http://pom1.sourceforge.net/) Apple I emulator ported to C and Android from the original Java version
 *  [apple1js](https://github.com/ScullinSteel/apple1js) Apple I emulator written in Javascript
+*  [appleii-android](https://github.com/umjammer/vavi-apps-appleii-android) Apple II Emulator for Android
+*  [appleii-bdj](https://github.com/umjammer/vavi-apps-appleii-bdj) Apple II Emulator for BD-J
 *  [gsport](https://sourceforge.net/projects/gsport) Apple IIgs emulator based on Kent Dickey's KEGS
 *  [gsplus](https://github.com/digarok/gsplus) Apple IIgs emulator for Mac OSX, Windows, and Linux
 *  [gamebloke](https://github.com/prickle/gamebloke) Apple on the go. Take that gameboy!
@@ -171,6 +168,7 @@
 *  [lessismore](https://github.com/apple2abandonware/lessismore) Collection of the very best Apple ][ abandonware
 *  [peterferrie](https://github.com/peterferrie) Fast boot, Hires compression, Lawless Legends too many to list just look
 *  [Michaelangel007](https://github.com/Michaelangel007) Graphic tutorials, RWTS18 source code, Mockingboard, Diversi DOS the list goes on
+*  [brutaldeluxe](https://www.brutaldeluxe.fr/) Since 1992, we have made several software for the Apple IIgs. Before that date, we have released other software for the Apple II line
 *  [Apple 2 projects](https://github.com/nategri/apple2) Various Apple II related projects
 ### Other
 *  [sword_of_kadash_map](https://github.com/bogbert/sword_of_kadash_map) A vintage map of the Apple II game Sword of Kadash
@@ -250,6 +248,7 @@
 *  [ProDOS8](https://github.com/markpmlim/ProDOS8) Disassembled source code of ProDOS 8 v2.03 in Merlin assembler format
 *  [a2d](https://github.com/inexorabletash/a2d) Disassembly of the Apple II Desktop
 *  [macross](https://github.com/Museum-of-Art-and-Digital-Entertainment/macross) Macross 6502, the assembler written by Lucasfilm Ltd. that was used for Habitat and SCUMM
+*  [Sorgenti-Apple-II](https://github.com/MarcoVerpelli/Sorgenti-Apple-II) Many software source code (mostly in Italian)
 *  [apple2_applesoft](https://github.com/Michaelangel007/apple2_applesoft) Mirror of Jamtronix's HTML Applesoft Source
 *  [lawless-legends](https://github.com/badvision/lawless-legends) Open-source code and assets from Lawless Legends and its supporting tools
 *  [a3a2em](https://github.com/brouhaha/a3a2em) Partial reverse-engineering of the Apple II emulation disk for the Apple 3
