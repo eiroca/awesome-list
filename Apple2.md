@@ -83,6 +83,7 @@
 *  [prorwts](https://github.com/peterferrie/prorwts) Open/read/write files in ProDOS filesystem
 *  [Play-BTc](https://github.com/oliverschmidt/Play-BTc) Play Binary Time constant Sound on the Apple II
 *  [apple2_printm](https://github.com/Michaelangel007/apple2_printm) printm - a modular micro printf replacement for 65C02
+*  [ResolutionII](http://resolutionii.sourceforge.net/) Resolution ][ is a programmer's API library for developing Apple ][ software using the Apple ][ double-high-resolution graphics mode
 *  [apple2_rwts18](https://github.com/Michaelangel007/apple2_rwts18) Roland Gustafsson's RWTS18 source code
 *  [marinetti](https://sourceforge.net/projects/marinetti) TCP/IP stack for the Apple IIgs, in 65816 assembly language
 *  [iigs-sprite-compiler](https://github.com/lscharen/iigs-sprite-compiler) Utility to generate 65816 compiled sprites using informed search methods
@@ -158,6 +159,7 @@
 *  [Apple2CharGen](https://github.com/dschmenk/Apple2CharGen) How to create a custom Apple ][ character generator ROM
 *  [RetroConnector](https://github.com/option8/RetroConnector) RetroConnector series of open source adapter boards for Apple || series computers
 *  [AppleIISd](https://github.com/freitz85/AppleIISd) SD card based ProFile replacement for IIe
+*  [applelogic.org](http://www.applelogic.org/index.html) The AppleLogic website is all about FPGAs and Apple systems. After thirty odd years since the initial introduction of the Apple II and more than fourteen years since it was discontinued, new FPGA technologies have given this fascinating and incredibly popular computer a new lease of life
 *  [aekii](https://github.com/cfenollosa/aekii) Tuning an Apple Extended Keyboard II
 ### Misc
 *  [abandonware](https://github.com/apple2abandonware/abandonware) Apple II Abandonware
@@ -173,6 +175,7 @@
 ### Other
 *  [sword_of_kadash_map](https://github.com/bogbert/sword_of_kadash_map) A vintage map of the Apple II game Sword of Kadash
 ### Software
+*  :thumbsup: [Prodos2.4](https://archive.org/details/ProDOS_2_4_1) ProDOS 2.4 adds new features for all Apple II computers, including the 1977 Integer ROM Apple II
 *  [gopher](https://github.com/ksherlock/gopher) A gopher client for the Apple IIgs
 *  [MouseII](https://github.com/blondie7575/MouseII) A mouse driver for Apple II computers
 *  [alarm-clock-6502](https://github.com/gungwald/alarm-clock-6502) A retro alarm clock app
