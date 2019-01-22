@@ -18,7 +18,7 @@
 *  [ossc](https://github.com/marqs85/ossc) Open Source Scan Converter. Board designed for connecting retro video game consoles and home computers into modern displays
 ### Cross / Tools
 *  :thumbsup: [Apple Commander](https://github.com/AppleCommander/AppleCommander) AppleCommander is a tool that manipulates Apple ][ disk images. Files may be imported, exported, viewed, or printed with various file filters
-*  :thumbsup: [Apple2 Graphic](https://www.eiroca.net/wiki/software/desktop/apple2_graphic) Programs and library to draw old Apple ][ graphics formats. Support for HGR, DHGR and Apple 2 GS $C1 format with export to BMP. Support also for apple shape
+*  :thumbsup: [Apple2 Graphic](https://www.eiroca.net/apple2graphic) Programs and library to draw Apple ][ graphics formats. Support for HGR, DHGR and Apple IIgs $C1 format with export to BMP or PNG. Support also for apple shape
 *  [radius](https://github.com/digarok/radius) 6502 / 65816 Merlin-style assembly code indenter tool
 *  [copy](https://github.com/gungwald/copy) A command to copy files in BASIC.SYSTEM on an Apple II
 *  [dsk2woz](https://github.com/TomHarte/dsk2woz) A command-line tool to convert Apple II DSK images to WOZ format
@@ -139,6 +139,7 @@
 *  [gamebloke](https://github.com/prickle/gamebloke) Apple on the go. Take that gameboy!
 *  [jsbasic](https://github.com/inexorabletash/jsbasic) Applesoft BASIC in JavaScript
 *  [Catakig](http://catakig.sourceforge.net/) Catakig is an emulator for the popular Apple II series of personal computers, supporting the Apple ][, ][+, //e, and //c models
+*  [ewm](https://github.com/st3fan/ewm) Emulated Woz Machine
 #REF!
 *  [EPPLE](https://github.com/cmosher01/Epple-II) EPPLE ][ is an emulator of the Apple ][ computer
 *  [FruitMachine-Swift](https://github.com/Luigi30/FruitMachine-Swift) Fruit Machine Apple I emulator, but in Swift
