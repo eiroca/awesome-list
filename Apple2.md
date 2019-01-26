@@ -22,6 +22,7 @@
 *  [radius](https://github.com/digarok/radius) 6502 / 65816 Merlin-style assembly code indenter tool
 *  [copy](https://github.com/gungwald/copy) A command to copy files in BASIC.SYSTEM on an Apple II
 *  [dsk2woz](https://github.com/TomHarte/dsk2woz) A command-line tool to convert Apple II DSK images to WOZ format
+*  [japple2](https://sourceforge.net/projects/japple2/) A Complete Apple II/II+ Emulator written in Java to be capable of running from Java Webstart
 *  [EETool](https://github.com/blondie7575/EETool) A dump and burn tool for Apple II ROMs and EEPROMs
 *  [Apple-II-Disk-Tools](https://github.com/cmosher01/Apple-II-Disk-Tools) A few command line tools for manipulating Apple ][ series floppy disk images
 *  [applesingle](https://github.com/AppleCommander/applesingle) A Java library and command-line tool for AppleSingle support
@@ -57,7 +58,8 @@
 *  [ProDisk](https://www.eiroca.net/wiki/software/incubator/prodisk) Imports/exports file(s) between Ms-Dos and ProDos HD Image used by Apple2 emulators like ApplePC
 *  [a2zip](https://github.com/brouhaha/a2zip) Infocom ZIP version 1 through 3 interpreters for Apple II, partially reverse-engineered
 *  [nulib2](https://github.com/fadden/nulib2) NufxLib and NuLib2, Apple II file archive utilities
-*  [DOS33](https://github.com/softwarejanitor/DOS33) Perl Module and utilities for working with Apple II DOS 3.3 disk images
+#REF!
+*  [ProDOS](https://github.com/softwarejanitor/ProDOS) Perl modules and utilities to access ProDOS volume disk images
 *  [profuse](https://github.com/ksherlock/profuse) ProDOS file system for FUSE
 *  [apple2-converters](https://github.com/ericfischer/apple2-converters) Programs I wrote many years ago to convert Apple II binary file formats to things that are usable on current systems
 *  [sdisk2](https://github.com/rbanffy/sdisk2) Software for the SDISK 2 Disk II emulator for Apple II computers
@@ -140,7 +142,7 @@
 *  [jsbasic](https://github.com/inexorabletash/jsbasic) Applesoft BASIC in JavaScript
 *  [Catakig](http://catakig.sourceforge.net/) Catakig is an emulator for the popular Apple II series of personal computers, supporting the Apple ][, ][+, //e, and //c models
 *  [ewm](https://github.com/st3fan/ewm) Emulated Woz Machine
-#REF!
+*  [arduino-appleii](https://github.com/dpeckett/arduino-appleii) Emulating the original Apple II microcomputer on an Arduino Uno microcontroller
 *  [EPPLE](https://github.com/cmosher01/Epple-II) EPPLE ][ is an emulator of the Apple ][ computer
 *  [FruitMachine-Swift](https://github.com/Luigi30/FruitMachine-Swift) Fruit Machine Apple I emulator, but in Swift
 *  [homebrew-appleii](https://github.com/lifepillar/homebrew-appleii) Homebrew formulae for Apple I/II/III/GS emulators, utilities and such
