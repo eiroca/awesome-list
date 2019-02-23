@@ -18,6 +18,7 @@
 *  [ossc](https://github.com/marqs85/ossc) Open Source Scan Converter. Board designed for connecting retro video game consoles and home computers into modern displays
 ### Cross / Tools
 *  :thumbsup: [Apple Commander](https://github.com/AppleCommander/AppleCommander) AppleCommander is a tool that manipulates Apple ][ disk images. Files may be imported, exported, viewed, or printed with various file filters
+*  :thumbsup: [ciderpress](https://github.com/fadden/ciderpress) CiderPress Apple II archive utility for Windows
 *  :thumbsup: [Apple2 Graphic](https://www.eiroca.net/apple2graphic) Programs and library to draw Apple ][ graphics formats. Support for HGR, DHGR and Apple IIgs $C1 format with export to BMP or PNG. Support also for apple shape
 *  [radius](https://github.com/digarok/radius) 6502 / 65816 Merlin-style assembly code indenter tool
 *  [copy](https://github.com/gungwald/copy) A command to copy files in BASIC.SYSTEM on an Apple II
@@ -44,7 +45,6 @@
 *  [AppleSAWS](https://github.com/markdavidlong/AppleSAWS) AppleSAWS - toolkit for exploring DOS 3.3 disks
 *  [c2t](https://github.com/datajerk/c2t) C2t is a command line tool that can convert binary code/data and/or Apple-1/II Monitor text, as well as 140K disk images, into audio files suitable for use with the Apple-1 and II (II, II+, //e) cassette interface
 *  [a2tools](https://github.com/catseye/a2tools) Cat's Eye Technologies' fork of a2tools Apple II disk image utilities
-*  [ciderpress](https://github.com/fadden/ciderpress) CiderPress Apple II archive utility for Windows
 *  [Apple-ImageWriterII](https://github.com/dellagd/Apple-ImageWriterII) Collection of code for using an Apple ImageWriter II with a modern computer
 *  [a2cloud](https://github.com/RasppleII/a2cloud) Connect your Apple // to the world via Linux
 *  [apple2-image-encoder](https://github.com/a2geek/apple2-image-encoder) Convert a modern image into a format usable by an Apple II
@@ -58,7 +58,7 @@
 *  [ProDisk](https://www.eiroca.net/wiki/software/incubator/prodisk) Imports/exports file(s) between Ms-Dos and ProDos HD Image used by Apple2 emulators like ApplePC
 *  [a2zip](https://github.com/brouhaha/a2zip) Infocom ZIP version 1 through 3 interpreters for Apple II, partially reverse-engineered
 *  [nulib2](https://github.com/fadden/nulib2) NufxLib and NuLib2, Apple II file archive utilities
-#REF!
+*  [DOS33](https://github.com/softwarejanitor/DOS33) Perl Modules and utilities for working with Apple II DOS 3.3 disk images
 *  [ProDOS](https://github.com/softwarejanitor/ProDOS) Perl modules and utilities to access ProDOS volume disk images
 *  [profuse](https://github.com/ksherlock/profuse) ProDOS file system for FUSE
 *  [apple2-converters](https://github.com/ericfischer/apple2-converters) Programs I wrote many years ago to convert Apple II binary file formats to things that are usable on current systems
@@ -67,6 +67,7 @@
 *  [sosar](https://github.com/brouhaha/sosar) Utility to manipulate Apple SOS and ProDOS disk image files
 ### Develop / Library
 *  :thumbsup: [WeeGUI](https://github.com/a2-4am/WeeGUI) A compact and easy to use GUI library for 8-bit Apple ][ computers
+*  [cristel](https://github.com/cquest/cristel) 6502 assembly code to extend the Applesoft BASIC with 20+ new commands to access the Apple Tell card
 *  [6502](https://github.com/option8/6502) 6502 Assembly source files, utilities, bits and bobs. Mostly Apple II
 *  [AppleIIAsmLib](https://github.com/nathanriggs/AppleIIAsmLib) A general purpose ASM libriary for the Apple II. Assembled in Merlin 8 Pro
 *  [HiSprite](https://github.com/blondie7575/HiSprite) A hi-res sprite compiler for Apple II
@@ -82,6 +83,7 @@
 *  [apple2-fonts](https://github.com/gungwald/apple2-fonts) Experimentation with custom fonts on HGR screen
 *  [qboot](https://github.com/peterferrie/qboot) Fast bootable Read Track/Sector routine (multi)
 *  [0boot](https://github.com/peterferrie/0boot) Fast bootable Read Track/Sector routine (single)
+*  [here](http://www.apple1notes.com/old_apple/Monitor_II_on_1.html) Monitor II on Apple 1
 *  [prorwts](https://github.com/peterferrie/prorwts) Open/read/write files in ProDOS filesystem
 *  [Play-BTc](https://github.com/oliverschmidt/Play-BTc) Play Binary Time constant Sound on the Apple II
 *  [apple2_printm](https://github.com/Michaelangel007/apple2_printm) printm - a modular micro printf replacement for 65C02
@@ -92,6 +94,7 @@
 ### Develop / Tools
 *  :thumbsup: [ORCA-C](https://github.com/byteworksinc/ORCA-C) Apple IIGS ORCA/C Compiler, an ANSI C compiler for the 65816 with libraries for the Apple IIGS
 *  :thumbsup: [ORCA-Pascal](https://github.com/byteworksinc/ORCA-Pascal) Apple IIGS ORCA/Pascal Compiler, an ISO Pascal compiler for the 65816 with libraries for the Apple IIGS
+*  :thumbsup: [PLASMA](https://github.com/dschmenk/PLASMA) Proto Language AsSeMbler for All (formerly Apple)
 *  [Apple-Befunge](https://github.com/catseye/Apple-Befunge) A dialect of Befunge for the 8-bit Apple II (or Apple ][+ or Apple //e)
 *  [MakeLib](https://github.com/byteworksinc/MakeLib) A utility designed for use with the ORCA development environment for the Apple IIGS, MakeLib creates Apple IIGS formal libraries
 *  [EightBall](https://github.com/bobbimanners/EightBall) An 8-bit algorithmic languange for Apple II, C64, Vic 20. Includes: Interpreter, Bytecode compiler, Virtual Machine, Bytecode disassembler
@@ -104,10 +107,8 @@
 *  [brainfuck6502](https://github.com/peterferrie/brainfuck6502) Interpreter for 6502 Apple II in 144 bytes
 *  [ORCALib](https://github.com/byteworksinc/ORCALib) Libraries for the ORCA language suite (ORCA/C, ORCA/M, ORCA/Pascal) for the Apple IIGS
 *  [supermacs](https://github.com/roughana/supermacs) Merlin Assembler Macros for Apple IIgs System Software
-*  [PLASMA](https://github.com/dschmenk/PLASMA) Proto Language AsSeMbler for All (formerly Apple)
 *  [Unidisk](https://github.com/rigreco/Unidisk) UNIDISK 3.5 Apple II co-processor in Merlin Assembler
-*  [VM02](https://github.com/dschmenk/VM02) VM02 Apple II Java Virtual Machine
-*  [vm02](https://sourceforge.net/projects/vm02) VM02 is a Java compatible environment for the Apple II series of computers
+*  [VM02](https://github.com/dschmenk/VM02) VM02 is a Java compatible environment for the Apple II series of computers (also https://sourceforge.net/projects/vm02/)
 ### Develop / Tutorials
 *  [apple2_hgr_font_tutorial](https://github.com/Michaelangel007/apple2_hgr_font_tutorial) Apple ][ //e HGR Font Tutorial
 *  [apple2_hgrbyte](https://github.com/Michaelangel007/apple2_hgrbyte) Apple 2 HGR Byte Inspector
@@ -178,7 +179,7 @@
 ### Other
 *  [sword_of_kadash_map](https://github.com/bogbert/sword_of_kadash_map) A vintage map of the Apple II game Sword of Kadash
 ### Software
-*  :thumbsup: [Prodos2.4](https://archive.org/details/ProDOS_2_4_1) ProDOS 2.4 adds new features for all Apple II computers, including the 1977 Integer ROM Apple II
+*  :thumbsup: [Prodos](https://prodos8.com/) Advanced version of ProDOS that adds new features for all Apple II computers, including the 1977 Integer ROM Apple II
 *  [gopher](https://github.com/ksherlock/gopher) A gopher client for the Apple IIgs
 *  [MouseII](https://github.com/blondie7575/MouseII) A mouse driver for Apple II computers
 *  [alarm-clock-6502](https://github.com/gungwald/alarm-clock-6502) A retro alarm clock app
