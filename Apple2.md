@@ -3,6 +3,8 @@
 ## Related
 * [Awesome List of 6502, 65C02, 65816, ...  resources](6502.md)
 
+### Blog / Directory
+*  [xtof](https://www.xtof.info/blog/?cat=12) Apple 2 programming blog
 ### Cross / Develop
 *  [65816 tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
 *  [Apple2BuildPipeline](https://github.com/blondie7575/Apple2BuildPipeline) A build pipeline (with sample project) for making Apple ][ software on OS X
@@ -133,6 +135,7 @@
 *  [arduino-appleii](https://github.com/dpeckett/arduino-appleii) Emulating the original Apple II microcomputer on an Arduino Uno microcontroller
 *  [Catakig](http://catakig.sourceforge.net/) Catakig is an emulator for the popular Apple II series of personal computers, supporting the Apple ][, ][+, //e, and //c models
 *  [CLK](https://github.com/TomHarte/CLK) An emulator of the Acorn Electron, Amstrad CPC, Apple II/II+/IIe, Atari 2600, ColecoVision, Commodore Vic-20, MSX 1, Oric 1/Atmos, Sega Master System and Sinclair ZX80/81
+*  [dapple](https://sourceforge.net/projects/dapple) Dapple/NDapple are Apple ][ emulators, aiming to support a well-fitted Apple ][, ][+ or //e machine with 64K. It is (was) based on Marat Fayzullin's M6502 with 65C02 additions. Dapple ][ aims for a 128K //e
 *  [EPPLE](https://github.com/cmosher01/Epple-II) EPPLE ][ is an emulator of the Apple ][ computer
 *  [ewm](https://github.com/st3fan/ewm) Emulated Woz Machine
 *  [fruitmachine](https://github.com/Luigi30/fruitmachine) Apple I emulator
@@ -183,6 +186,7 @@
 *  [sword_of_kadash_map](https://github.com/bogbert/sword_of_kadash_map) A vintage map of the Apple II game Sword of Kadash
 ### Software
 *  :thumbsup: [Prodos](https://prodos8.com/) Advanced version of ProDOS that adds new features for all Apple II computers, including the 1977 Integer ROM Apple II
+*  :thumbsup: [rogue-like](https://github.com/Pixinn/rogue-like) A rogue-like game for the Apple II
 *  [a2-chemi-gs-1993](https://github.com/codebur/a2-chemi-gs-1993) Apple IIgs Drawing program for chemical structures (unfinished)
 *  [A2osX](https://github.com/burniouf/A2osX) Multi-Tasking OS for Apple II
 *  [a2server](https://github.com/RasppleII/a2server) AppleTalk server for Apple // computers
@@ -203,6 +207,7 @@
 *  [electric-mock](https://github.com/cybernesto/electric-mock) Apple II Electric Duet player for the Mockingboard and the Cricket!
 *  [F15-DGamma-Clone-A2](https://github.com/C64CD/F15-DGamma-Clone-A2) Apple II crack intro style release
 *  [festro](https://github.com/digarok/festro) Festro by Digarok - Apple II intro/demo with a KansasFest theme - 65c02 assembly
+*  [gameoflife-appleii](https://github.com/Pixinn/gameoflife-appleii) port of Conway's Game of Life for Apple II computers
 *  [gno](https://github.com/GnoConsortium/gno) GNO is the UNIX-like environment for the Apple IIgs
 *  [gopher](https://github.com/ksherlock/gopher) A gopher client for the Apple IIgs
 *  [host-fst](https://github.com/ksherlock/host-fst) Apple IIgs host FST (for emulators that support it)
