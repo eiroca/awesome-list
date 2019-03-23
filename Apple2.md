@@ -4,9 +4,12 @@
 * [Awesome List of 6502, 65C02, 65816, ...  resources](6502.md)
 
 ### Blog / Directory
+*  [APPLE CRAPPLE](http://apple-crapple.blogspot.com/) Adventures in Retro Computing, Hacking and Other Madness
+*  [Here](http://schmenk.is-a-geek.com/wordpress/) Apple2 related project blog
 *  [xtof](https://www.xtof.info/blog/?cat=12) Apple 2 programming blog
 ### Cross / Develop
 *  [65816 tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
+*  [apple_iigs_java](http://www.mikekohn.net/micro/apple_iigs_java.php) Java Grinder to support the W65C816 as a CPU for with target platforms of first the W65C265SXB dev board, then Apple IIgs, and hopefully soon also Super Nintendo
 *  [Apple2BuildPipeline](https://github.com/blondie7575/Apple2BuildPipeline) A build pipeline (with sample project) for making Apple ][ software on OS X
 *  [BASIC.tmbundle](https://github.com/ksherlock/BASIC.tmbundle) TextMate tmbundle for various Apple II BASIC dialects
 *  [CC65BuildSolution](https://github.com/OlivierGuinart/CC65BuildSolution) Visual Studio makefile solution to build Apple II projects with CC65
@@ -30,6 +33,7 @@
 *  [adfs](https://sourceforge.net/projects/adfs) Apple DOS File System (ADFS)
 *  [adtpro](https://sourceforge.net/projects/adtpro) Apple Disk Transfer ProDOS (ADTPro) transfers classic 8-bit Apple disk images over a serial, ethernet or audio link to a more modern computer
 *  [Analyst](https://github.com/retrogear/Analyst) Analyst debugger for Apple II
+*  [apple2_disk_utils](https://github.com/mikeakohn/apple2_disk_utils) Utilities for reading from Apple II disks
 *  [apple2_png_to_hgr](https://github.com/Michaelangel007/apple2_png_to_hgr) Convert PNG to HGR bytes
 *  [apple2_prodos_utils](https://github.com/Michaelangel007/apple2_prodos_utils) Apple 2 virtual DSK tools for ProDOS volumes
 *  [apple2-converters](https://github.com/ericfischer/apple2-converters) Programs I wrote many years ago to convert Apple II binary file formats to things that are usable on current systems
@@ -70,8 +74,8 @@
 *  [wozardry](https://github.com/a2-4am/wozardry) A multi-purpose tool for manipulating .woz disk images
 ### Develop / Library
 *  :thumbsup: [WeeGUI](https://github.com/a2-4am/WeeGUI) A compact and easy to use GUI library for 8-bit Apple ][ computers
-*  [0boot](https://github.com/peterferrie/0boot) Fast bootable Read Track/Sector routine (single)
 *  [6502](https://github.com/option8/6502) 6502 Assembly source files, utilities, bits and bobs. Mostly Apple II
+*  [0boot](https://github.com/peterferrie/0boot) Fast bootable Read Track/Sector routine (single)
 *  [65816-crypto](https://github.com/sheumann/65816-crypto) Crypto algorithm implementations for the 65816
 *  [a2graph](https://github.com/pedgarcia/a2graph) CC65 Lo-Res graphic library for the Apple II
 *  [a2render](https://github.com/martinhaye/a2render) Apple II game rendering engine
@@ -106,6 +110,7 @@
 *  [DumpObj](https://github.com/byteworksinc/DumpObj) DumpObj utility for examining Apple IIGS object modules
 *  [EightBall](https://github.com/bobbimanners/EightBall) An 8-bit algorithmic languange for Apple II, C64, Vic 20. Includes: Interpreter, Bytecode compiler, Virtual Machine, Bytecode disassembler
 *  [FIG-Forth](https://github.com/ForthHub/FIG-Forth) FIG Forth model for Apple II 6502
+*  [Golden Gate](https://goldengate.gitlab.io/) Golden Gate by Kelvin Sherlock is a compatibility layer for ORCA and GNO/ME command line programs
 *  [Linker](https://github.com/byteworksinc/Linker) Apple IIGS ORCA Linker, a link editor for the Apple IIGS object module format
 *  [MakeLib](https://github.com/byteworksinc/MakeLib) A utility designed for use with the ORCA development environment for the Apple IIGS, MakeLib creates Apple IIGS formal libraries
 *  [ORCALib](https://github.com/byteworksinc/ORCALib) Libraries for the ORCA language suite (ORCA/C, ORCA/M, ORCA/Pascal) for the Apple IIGS
@@ -122,6 +127,7 @@
 ### Emulator
 *  :thumbsup: [AppleWin](https://github.com/AppleWin/AppleWin) Apple ][ emulator for Windows
 *  :thumbsup: [Kegs](http://kegs.sourceforge.net/) Apple IIgs emulator for Mac OS X, Win32, Linux, and Unix/X11
+*  [activegs-ios](https://github.com/ogoguel/activegs-ios) ActiveGS, Apple 2/2GS emulator for iOS
 *  [apple1js](https://github.com/ScullinSteel/apple1js) Apple I emulator written in Javascript
 *  [apple2](https://github.com/mauiaaron/apple2) Apple //e emulator
 *  [Apple2000](https://github.com/kkralian/Apple2000) Apple ][ emulator for the Amiga
@@ -149,11 +155,14 @@
 *  [JACE](https://github.com/badvision/jace) Java Apple Computer Emulator. Apple IIe emulator written in JAVA. Includes all resolution modes and Mockingboard Support. Runs all Windows, Mac OSX and Linux
 *  [japple2](https://sourceforge.net/projects/japple2) A Complete Apple II/II+ Emulator written in Java to be capable of running from Java Webstart
 *  [jsbasic](https://github.com/inexorabletash/jsbasic) Applesoft BASIC in JavaScript
-*  [linapple](https://github.com/linappleii/linapple) Apple //e emulator
+*  [LinApple](https://github.com/linappleii/linapple) Apple //e emulator (forked repo)
+*  [LinApple](https://sourceforge.net/projects/linapple/) Apple //e emulator (original repo)
 *  [OpenEmulator-OSX](https://github.com/OpenEmulatorProject/OpenEmulator-OSX) OpenEmulator
 *  [POM1](https://github.com/sicklittlemonkey/AppleIIGo) Apple //e emulator Java applet
 *  [POM1](http://pom1.sourceforge.net/) Apple I emulator ported to C and Android from the original Java version
+*  [RetroPie](https://github.com/RetroPie/RetroPie-Setup/wiki/Apple-II) Apple 2 on retropie how to
 *  [Virtu](https://github.com/digital-jellyfish/Virtu) Apple //e emulator for the .NET Framework using C# with Silverlight, WPF, and XNA
+*  [WOZ format](https://applesaucefdc.com/woz/) The WOZ Disk Image format was designed to be able to contain every possible Apple ][ disk structure and layout. It can be so accurate that even copy protected software can’t tell that it isn’t an original disk
 ### Hardware
 *  [A2JoystickAdapter](https://github.com/ppelleti/A2JoystickAdapter) A simple board to connect a 16-pin Apple II joystick to the 9-pin connector on the back of Apple IIe and later computers
 *  [aekii](https://github.com/cfenollosa/aekii) Tuning an Apple Extended Keyboard II
@@ -187,6 +196,7 @@
 ### Software
 *  :thumbsup: [Prodos](https://prodos8.com/) Advanced version of ProDOS that adds new features for all Apple II computers, including the 1977 Integer ROM Apple II
 *  :thumbsup: [rogue-like](https://github.com/Pixinn/rogue-like) A rogue-like game for the Apple II
+*  [a2audit](https://github.com/zellyn/a2audit) Apple II audit routines: for testing your Apple II or emulator
 *  [a2-chemi-gs-1993](https://github.com/codebur/a2-chemi-gs-1993) Apple IIgs Drawing program for chemical structures (unfinished)
 *  [A2osX](https://github.com/burniouf/A2osX) Multi-Tasking OS for Apple II
 *  [a2server](https://github.com/RasppleII/a2server) AppleTalk server for Apple // computers
@@ -267,6 +277,7 @@
 *  [apple2_gumball](https://github.com/Michaelangel007/apple2_gumball) Apple 2 Game Gumball Reverse Engineering
 *  [apple2_thunderclock](https://github.com/Michaelangel007/apple2_thunderclock) Thunderware Thunderclock Plus
 *  [AppleII_DOS](https://github.com/dynamicwebpaige/AppleII_DOS) Apple II DOS Source Code
+*  [apple-II-DOS](http://www.digibarn.com/collections/business-docs/apple-II-DOS/index.html) How Apple Booted Up key Documents in the Creation of Apple's First Operating System
 *  [AppleIIModula2Interpreter](https://github.com/markpmlim/AppleIIModula2Interpreter) Source code from the disassembly of Apple DOS Modula2 Interpreter package
 *  [Apple-II-Platform](https://github.com/cmosher01/Apple-II-Platform) Various programs (source code) for the Apple ][ series platform
 *  [Apple-II-Source](https://github.com/cmosher01/Apple-II-Source) Source code for Apple ][ series System Software and DOS
