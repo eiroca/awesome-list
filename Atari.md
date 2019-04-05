@@ -13,6 +13,8 @@
 ### Develop / Library
 *  [Atari8GUI](https://atari8.co.uk/gui/) A Graphical OS for the Atari 8-bit
 *  [Renderific](https://github.com/savetz/Renderific) An SVG renderer for Atari 8-bit computers, written in Turbo-BASIC XL
+### Emulator
+*  [sio2arduino](http://whizzosoftware.com/sio2arduino/) is an Atari 8-bit (800/XL/XE) device emulator that runs on the Arduino platform
 ### Emulator / Atari 8bit
 *  [Altirra](http://virtualdub.org/altirra.html) Altirra, an 8-bit Atari computer emulator
 *  [Atari 800](https://atari800.github.io/) Atari800 is the emulator of Atari 8-bit computer systems and 5200 game console for Unix, Linux, Amiga, MS-DOS, Atari TT/Falcon, MS-Windows, MS WinCE, Sega Dreamcast, Android and other systems supported by the SDL library

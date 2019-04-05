@@ -4,8 +4,19 @@
 * [Awesome List of 6502, 65C02, 65816, ...  resources](6502.md)
 
 ### Blog / Directory
+*  [1mhz](http://monsterfeet.com/1mhz/) Apple 2 podcast
 *  [APPLE CRAPPLE](http://apple-crapple.blogspot.com/) Adventures in Retro Computing, Hacking and Other Madness
+*  [apple2.gs](https://apple2.gs/) This is a place to learn about programming the Apple Iigs
+*  [apple2online.com](https://apple2online.com/) single-source, easy-to-use library of reference materials - software, manuals, FAQs, photos, links, etc…
+*  [bluerwhite](https://www.bluerwhite.org/) Bluer White
+*  [brutaldeluxe](http://www.brutaldeluxe.fr/) Brutal Deluxe Software is a small group of programmers located around Paris, France
+*  [call apple](https://www.callapple.org/) Apple user group
+*  [dreher](http://dreher.net/) Projects for Apple 2
+*  [finapple](https://finapple.hho.fi/finapple/) Apple ][ in Finland
 *  [Here](http://schmenk.is-a-geek.com/wordpress/) Apple2 related project blog
+*  [open-apple](http://www.open-apple.net/) An Apple 2 podcast
+*  [ultimateapple2](https://www.ultimateapple2.com/) Apple 2 resources
+*  [willegal](http://www.willegal.net/index.htm) Home of the Apple 1 Registry
 *  [xtof](https://www.xtof.info/blog/?cat=12) Apple 2 programming blog
 ### Cross / Develop
 *  [65816 tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
@@ -41,6 +52,7 @@
 *  [AppleIIDHGRConverter](https://github.com/markpmlim/AppleIIDHGRConverter) Apple2ColorDHGR.playround is a Swift playground for loading and viewing coloured Apple II Double Hires graphic files
 *  [Apple-II-Disk-Tools](https://github.com/cmosher01/Apple-II-Disk-Tools) A few command line tools for manipulating Apple ][ series floppy disk images
 *  [Apple-ImageWriterII](https://github.com/dellagd/Apple-ImageWriterII) Collection of code for using an Apple ImageWriter II with a modern computer
+*  [applesaucefdc](https://applesaucefdc.com/woz/) WOZ Disk Images
 *  [AppleSAWS](https://github.com/markdavidlong/AppleSAWS) AppleSAWS - toolkit for exploring DOS 3.3 disks
 *  [applesingle](https://github.com/AppleCommander/applesingle) A Java library and command-line tool for AppleSingle support
 *  [bastools](https://github.com/AppleCommander/bastools) An Applesoft BASIC tool library and command-line tool
@@ -127,6 +139,7 @@
 ### Emulator
 *  :thumbsup: [AppleWin](https://github.com/AppleWin/AppleWin) Apple ][ emulator for Windows
 *  :thumbsup: [Kegs](http://kegs.sourceforge.net/) Apple IIgs emulator for Mac OS X, Win32, Linux, and Unix/X11
+*  [a2audit](https://github.com/zellyn/a2audit) Apple II audit routines: for testing your Apple II or emulator
 *  [activegs-ios](https://github.com/ogoguel/activegs-ios) ActiveGS, Apple 2/2GS emulator for iOS
 *  [apple1js](https://github.com/ScullinSteel/apple1js) Apple I emulator written in Javascript
 *  [apple2](https://github.com/mauiaaron/apple2) Apple //e emulator
@@ -160,6 +173,8 @@
 *  [OpenEmulator-OSX](https://github.com/OpenEmulatorProject/OpenEmulator-OSX) OpenEmulator
 *  [POM1](https://github.com/sicklittlemonkey/AppleIIGo) Apple //e emulator Java applet
 *  [POM1](http://pom1.sourceforge.net/) Apple I emulator ported to C and Android from the original Java version
+*  [reinette](https://github.com/ArthurFerreira2/reinette) Reinette, the french Apple 1 emulator
+*  [reinette-II](https://github.com/ArthurFerreira2/reinette-II) Reinette II, the french Apple II emulator
 *  [RetroPie](https://github.com/RetroPie/RetroPie-Setup/wiki/Apple-II) Apple 2 on retropie how to
 *  [Virtu](https://github.com/digital-jellyfish/Virtu) Apple //e emulator for the .NET Framework using C# with Silverlight, WPF, and XNA
 *  [WOZ format](https://applesaucefdc.com/woz/) The WOZ Disk Image format was designed to be able to contain every possible Apple ][ disk structure and layout. It can be so accurate that even copy protected software can’t tell that it isn’t an original disk
@@ -237,6 +252,7 @@
 *  [robotwar](https://github.com/richardharrington/robotwar) Robots fight to the death in a virtual arena (based on the game for the Apple II)
 *  [septic-a2](https://github.com/magic-roundabout/septic-a2) A small Apple II demo with beeper music
 *  [SHR-NTSC](https://github.com/dschmenk/SHR-NTSC) NTSC artifact colors for Apple IIGS
+*  [sider-xebec-disassembly](https://github.com/FozzTexx/sider-xebec-disassembly) Disassembly of the Sider/Xebec SASI card ROM and tools for the Apple II
 *  [telnetd](https://github.com/sheumann/telnetd) Telnetd for GNO
 *  [the_mill_daughterboard](https://github.com/lucaridarelli/the_mill_daughterboard) Apple II Stellation Two The Mill OS9 Daughterboard PCB and PROM source
 *  [transformer](https://github.com/Luigi30/transformer) Transform 2D coordinates with an Apple IIGS
@@ -260,6 +276,7 @@
 *  [mouse-maze-2001](https://github.com/a2geek/mouse-maze-2001) Play Henry the mouse and try to escape from the mad scientist
 *  [PCS_AppleII](https://github.com/billbudge/PCS_AppleII) Pinball Construction Set Source code for Apple II
 *  [spaceaceiigs](https://github.com/Olde-Skuul/spaceaceiigs) Space Ace for IIGS
+*  [xrick2gs](https://github.com/dwsJason/xrick2gs) Apple IIgs port of Dangerous Rick
 ### Software / Tools
 *  [4live](https://github.com/a2-4am/4live) The invisible editor for your Apple II
 *  [a2fc.system](https://github.com/a2-4am/a2fc.system) A very small .a2fc graphics file viewer for Apple II computers
