@@ -12,19 +12,23 @@
 *  [brutaldeluxe](http://www.brutaldeluxe.fr/) Brutal Deluxe Software is a small group of programmers located around Paris, France
 *  [call apple](https://www.callapple.org/) Apple user group
 *  [dreher](http://dreher.net/) Projects for Apple 2
-*  [finapple](https://finapple.hho.fi/finapple/) Apple ][ in Finland
-*  [Here](http://schmenk.is-a-geek.com/wordpress/) Apple2 related project blog
+*  [finapple](https://finapple.hho.fi/finapple/) Apple 2 in Finland
+*  [Here](http://schmenk.is-a-geek.com/wordpress/) Apple 2 related project blog
+*  [Main_Page](https://wiki.reactivemicro.com/Main_Page) ReActiveMicro Apple II Wiki
+*  [MG's Apple II Site](http://apple2.guidero.us/doku.php/start) MG's Apple II Site
 *  [open-apple](http://www.open-apple.net/) An Apple 2 podcast
 *  [ultimateapple2](https://www.ultimateapple2.com/) Apple 2 resources
 *  [willegal](http://www.willegal.net/index.htm) Home of the Apple 1 Registry
+*  [xjmaas](http://www.xjmaas.nl/my-apple-collection/) Projects
 *  [xtof](https://www.xtof.info/blog/?cat=12) Apple 2 programming blog
 ### Cross / Develop
 *  [65816 tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
 *  [apple_iigs_java](http://www.mikekohn.net/micro/apple_iigs_java.php) Java Grinder to support the W65C816 as a CPU for with target platforms of first the W65C265SXB dev board, then Apple IIgs, and hopefully soon also Super Nintendo
-*  [Apple2BuildPipeline](https://github.com/blondie7575/Apple2BuildPipeline) A build pipeline (with sample project) for making Apple ][ software on OS X
+*  [Apple2BuildPipeline](https://github.com/blondie7575/Apple2BuildPipeline) A build pipeline (with sample project) for making Apple 2 software on OS X
 *  [BASIC.tmbundle](https://github.com/ksherlock/BASIC.tmbundle) TextMate tmbundle for various Apple II BASIC dialects
 *  [CC65BuildSolution](https://github.com/OlivierGuinart/CC65BuildSolution) Visual Studio makefile solution to build Apple II projects with CC65
 *  [libsane](https://github.com/ksherlock/libsane) SANE - Standard Apple Numerics Environment. A reimplementation thereof
+*  [Merlin 32](http://brutaldeluxe.fr/products/crossdevtools/merlin/index.html) Merlin 32 is a multi-pass Cross Assembler running under Windows, Linux and Mac OS X targeting 8 bit processors in the 6502 series (such as 6502 and 65c02) and the 16 bit 65c816 processor
 *  [Merlin32BuildSolution](https://github.com/OlivierGuinart/Merlin32BuildSolution) Visual Studio makefile solution to build Apple II projects with Merlin32
 *  [regs](https://github.com/mrkite/regs) Apple IIgs reverse engineer tools
 ### Cross / Hardware
@@ -36,7 +40,7 @@
 *  :thumbsup: [Apple Commander](https://github.com/AppleCommander/AppleCommander) AppleCommander is a tool that manipulates Apple ][ disk images. Files may be imported, exported, viewed, or printed with various file filters
 *  :thumbsup: [Apple2 Graphic](https://www.eiroca.net/apple2graphic) Programs and library to draw Apple ][ graphics formats. Support for HGR, DHGR and Apple IIgs $C1 format with export to BMP or PNG. Support also for apple shape
 *  :thumbsup: [ciderpress](https://github.com/fadden/ciderpress) CiderPress Apple II archive utility for Windows
-*  [a2cloud](https://github.com/RasppleII/a2cloud) Connect your Apple // to the world via Linux
+*  [a2cloud](https://github.com/RasppleII/a2cloud) Connect your Apple 2 to the world via Linux
 *  [a2rchery](https://github.com/a2-4am/a2rchery) A multi-purpose tool for manipulating .a2r disk images
 *  [a2reinterleave](https://github.com/brouhaha/a2reinterleave) Convert interleave (sector ordering) of Apple II 5.25-inch floppy disk images
 *  [a2tools](https://github.com/catseye/a2tools) Cat's Eye Technologies' fork of a2tools Apple II disk image utilities
@@ -56,6 +60,7 @@
 *  [AppleSAWS](https://github.com/markdavidlong/AppleSAWS) AppleSAWS - toolkit for exploring DOS 3.3 disks
 *  [applesingle](https://github.com/AppleCommander/applesingle) A Java library and command-line tool for AppleSingle support
 *  [bastools](https://github.com/AppleCommander/bastools) An Applesoft BASIC tool library and command-line tool
+*  [buckshot](https://apple2.gs/buckshot/) Apple II Image Converter Tool - Cross Platform
 *  [c2d](https://github.com/datajerk/c2d) Apple II Code to Disk
 *  [c2t](https://github.com/datajerk/c2t) C2t is a command line tool that can convert binary code/data and/or Apple-1/II Monitor text, as well as 140K disk images, into audio files suitable for use with the Apple-1 and II (II, II+, //e) cassette interface
 *  [cadius](https://github.com/mach-kernel/cadius) A maintained fork of BrutalDeluxe's Cadius ProDOS disk imaging utility
@@ -94,6 +99,7 @@
 *  [apple2_printm](https://github.com/Michaelangel007/apple2_printm) printm - a modular micro printf replacement for 65C02
 *  [apple2_rwts18](https://github.com/Michaelangel007/apple2_rwts18) Roland Gustafsson's RWTS18 source code
 *  [apple2-fonts](https://github.com/gungwald/apple2-fonts) Experimentation with custom fonts on HGR screen
+*  [Apple-6502-Scaffold](https://github.com/thelbane/Apple-6502-Scaffold) Basic scaffolding for a new Apple II project written in 6502 assembly
 *  [AppleIIAsmLib](https://github.com/nathanriggs/AppleIIAsmLib) A general purpose ASM libriary for the Apple II. Assembled in Merlin 8 Pro
 *  [cristel](https://github.com/cquest/cristel) 6502 assembly code to extend the Applesoft BASIC with 20+ new commands to access the Apple Tell card
 *  [gscifs](https://github.com/cshepherd/gscifs) CIFS implementation for the Apple IIGS using Marinetti TCP/IP stack
@@ -180,14 +186,16 @@
 *  [WOZ format](https://applesaucefdc.com/woz/) The WOZ Disk Image format was designed to be able to contain every possible Apple ][ disk structure and layout. It can be so accurate that even copy protected software can’t tell that it isn’t an original disk
 ### Hardware
 *  [A2JoystickAdapter](https://github.com/ppelleti/A2JoystickAdapter) A simple board to connect a 16-pin Apple II joystick to the 9-pin connector on the back of Apple IIe and later computers
+*  [A2NoSlotMIDI](https://github.com/erangell/A2NoSlotMIDI) Apple 2 series No Slot MIDI interface using Annunciators on internal Game I/O socket
 *  [aekii](https://github.com/cfenollosa/aekii) Tuning an Apple Extended Keyboard II
+*  [Apple_II_Keyboard](https://github.com/mafrmt00/Apple_II_Keyboard) Arduino Sketch to use a USB keyboard with an Apple II as ASCII keyboard
 *  [Apple2CharGen](https://github.com/dschmenk/Apple2CharGen) How to create a custom Apple ][ character generator ROM
 *  [apple2pi](https://github.com/dschmenk/apple2pi) Apple II client/server for Raspberry Pi
 *  [applecb](https://sourceforge.net/projects/applecb) A FPGA based programmable hardware card for the Apple II
 *  [Apple-II-Gate-Level-Xilinx-ISE-14.7-Schematic-Entry](https://github.com/fred6502/Apple-II-Gate-Level-Xilinx-ISE-14.7-Schematic-Entry) Creating a functional gate level Apple II from Apple II schematic
 *  [Apple-II-Joystick-to-USB-Adapter](https://github.com/stratosonic/Apple-II-Joystick-to-USB-Adapter) Apple II Joystick to USB Adapter
 *  [AppleIIMini](https://github.com/Cupcakus/AppleIIMini) A miniature Apple II for those how cannot afford the real thing or just want a miniature version!
-*  [AppleIIMouse](https://github.com/freitz85/AppleIIMouse) AppleIIMouse
+*  [AppleIIMouse](https://github.com/freitz85/AppleIIMouse) Apple II mouse
 *  [AppleIISd](https://github.com/freitz85/AppleIISd) SD card based ProFile replacement for IIe
 *  [applelogic.org](http://www.applelogic.org/index.html) The AppleLogic website is all about FPGAs and Apple systems. After thirty odd years since the initial introduction of the Apple II and more than fourteen years since it was discontinued, new FPGA technologies have given this fascinating and incredibly popular computer a new lease of life
 *  [espple](https://github.com/datajerk/espple) Apple 1 Emulator with PAL RF Output
@@ -221,9 +229,13 @@
 *  [Apple1-Slideshow](https://github.com/dschmenk/Apple1-Slideshow) ASCII art slideshow for Apple 1 (as seen on most Apple 1 auctions)
 *  [apple2-delete-key-handler-from-gid](https://github.com/gungwald/apple2-delete-key-handler-from-gid) Delete key handler
 *  [appleiigraphica](https://sourceforge.net/projects/appleiigraphica) Apple II graphical web browser, using uIP and Uthernet, RamWorks III type AUX RAM card
+*  [Apple-II-Programs](https://github.com/thelbane/Apple-II-Programs) A collection of short programs for the Apple II
 *  [Apple-II-System-Masters](https://github.com/cmosher01/Apple-II-System-Masters) Collection of System Master disk images for the Apple ][ series computers
 *  [apple-II-videos](https://github.com/frankmilliron/apple-II-videos) Full-speed lores video playback on the Apple II-series computers
+*  [Applied Engineering](https://ae.applearchives.com/) Applied Engineering Repository
+*  [australian-apple-ii-software](https://jbretro.wordpress.com/category/apple-ii-software-including-disk-images/) Australian Apple 2 software
 *  [bunzip2](https://github.com/sheumann/bunzip2) Bzip2 decompressor for GNO
+*  [ConwayII](https://github.com/thelbane/ConwayII) Pretty fast implementation of Conway's Game of Life for Apple II
 *  [Cybernoid](https://github.com/tomcw/Cybernoid) Apple II Cybernoid music disk
 *  [Davex](https://github.com/david-schmidt/Davex) Davex is a command-line shell for the Apple II family of computers. Davex runs on ProDOS 8, and a subset of functionality is ported to SOS
 *  [delhndlr](https://github.com/gungwald/delhndlr) Makes the Delete key work as expected on an Apple II in ProDOS BASIC.SYSTEM
@@ -299,6 +311,7 @@
 *  [Apple-II-Platform](https://github.com/cmosher01/Apple-II-Platform) Various programs (source code) for the Apple ][ series platform
 *  [Apple-II-Source](https://github.com/cmosher01/Apple-II-Source) Source code for Apple ][ series System Software and DOS
 *  [beneath-apple-dos](https://github.com/iKarith/beneath-apple-dos) Beneath Apple DOS on github. A version of the book and also source code of Don Worth's Programs
+*  [bilestoad-apple2](https://github.com/historicalsource/bilestoad-apple2) Source Code and Data for The Bilestoad by Datamost (1983)
 *  [EdAsm](https://github.com/markpmlim/EdAsm) Source code from the disassembly of Apple ProDos Assembler package
 *  [gno-sources](https://github.com/ksherlock/gno-sources) GNO Sources from the Golden Orchard CD
 *  [lawless-legends](https://github.com/badvision/lawless-legends) Open-source code and assets from Lawless Legends and its supporting tools
