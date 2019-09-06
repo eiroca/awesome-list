@@ -5,12 +5,16 @@
 
 ### Blog / Directory
 *  [1mhz](http://monsterfeet.com/1mhz/) Apple 2 podcast
+*  [a2blog](https://www.golombeck.eu/index.php?id=5) Apple 2 blog
 *  [APPLE CRAPPLE](http://apple-crapple.blogspot.com/) Adventures in Retro Computing, Hacking and Other Madness
+*  [Apple2 org](http://apple2.org/) The site contains over 500 images of Apple ][ Hardware and a few others as well
 *  [apple2.gs](https://apple2.gs/) This is a place to learn about programming the Apple Iigs
 *  [apple2online.com](https://apple2online.com/) single-source, easy-to-use library of reference materials - software, manuals, FAQs, photos, links, etc…
+*  [appleii-box](http://www.appleii-box.de/) Misc resources
 *  [bluerwhite](https://www.bluerwhite.org/) Bluer White
 *  [brutaldeluxe](http://www.brutaldeluxe.fr/) Brutal Deluxe Software is a small group of programmers located around Paris, France
 *  [call apple](https://www.callapple.org/) Apple user group
+*  [crack-screens](http://artscene.textfiles.com/intros/APPLEII/) Apple 2 crack screens
 *  [dreher](http://dreher.net/) Projects for Apple 2
 *  [finapple](https://finapple.hho.fi/finapple/) Apple 2 in Finland
 *  [Here](http://schmenk.is-a-geek.com/wordpress/) Apple 2 related project blog
@@ -21,6 +25,8 @@
 *  [willegal](http://www.willegal.net/index.htm) Home of the Apple 1 Registry
 *  [xjmaas](http://www.xjmaas.nl/my-apple-collection/) Projects
 *  [xtof](https://www.xtof.info/blog/?cat=12) Apple 2 programming blog
+### Book
+*  [beneath-apple-prodos](https://github.com/ksherlock/beneath-apple-prodos) re-typeset the classic Don D. Worth / Pieter M. Lechner book
 ### Cross / Develop
 *  [65816 tmbundle](https://github.com/ksherlock/65816.tmbundle) 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
 *  [apple_iigs_java](http://www.mikekohn.net/micro/apple_iigs_java.php) Java Grinder to support the W65C816 as a CPU for with target platforms of first the W65C265SXB dev board, then Apple IIgs, and hopefully soon also Super Nintendo
@@ -59,6 +65,7 @@
 *  [applesaucefdc](https://applesaucefdc.com/woz/) WOZ Disk Images
 *  [AppleSAWS](https://github.com/markdavidlong/AppleSAWS) AppleSAWS - toolkit for exploring DOS 3.3 disks
 *  [applesingle](https://github.com/AppleCommander/applesingle) A Java library and command-line tool for AppleSingle support
+*  [asbasic](https://github.com/sigma-1/asbasic) BASIC interpreter with Apple II flavor for Mac and UNIX
 *  [bastools](https://github.com/AppleCommander/bastools) An Applesoft BASIC tool library and command-line tool
 *  [buckshot](https://apple2.gs/buckshot/) Apple II Image Converter Tool - Cross Platform
 *  [c2d](https://github.com/datajerk/c2d) Apple II Code to Disk
@@ -69,6 +76,7 @@
 *  [da65](https://github.com/softwarejanitor/da65) Da65 a simple 65C02 mini disassembler
 *  [DiskBrowser](https://github.com/dmolony/DiskBrowser) Apple II Disk Browser in Java
 *  [diskii](https://github.com/zellyn/diskii) Apple2 disk image manipulation commandline tool
+*  [diskm8](https://github.com/paleotronic/diskm8) DiskM8 Apple II disk image manipulation, cataloging and analysis tool
 *  [DOS33](https://github.com/softwarejanitor/DOS33) Perl Modules and utilities for working with Apple II DOS 3.3 disk images
 *  [dos33fsprogs](https://github.com/deater/dos33fsprogs) Tools for manipulating Apple II DOS files
 *  [dsk2woz](https://github.com/TomHarte/dsk2woz) A command-line tool to convert Apple II DSK images to WOZ format
@@ -78,17 +86,25 @@
 *  [GraphicConverterIIGS](https://github.com/markpmlim/GraphicConverterIIGS) Convert an unpacked Apple IIGS graphic file
 *  [gs-image-conversion](https://github.com/digarok/gs-image-conversion) Image Conversion Tools for the Apple Iigs
 *  [hexmon](https://github.com/simonboak/hexmon) Apple II system monitor-style hexdump
+*  [java-libomf](https://github.com/ksherlock/java-libomf) Java package to manipulate OMF files
+*  [minix.fst](https://github.com/ksherlock/minix.fst) This is a read-only FST for the Minix v1 and v1L (linux extended) file system
 *  [nulib2](https://github.com/fadden/nulib2) NufxLib and NuLib2, Apple II file archive utilities
+*  [omfutils](https://github.com/ksherlock/omfutils) A variety of applications for dealing with OMF files
+*  [omm_disassembler](https://github.com/ksherlock/omm_disassembler) OMM disassembler
 *  [passport.py](https://github.com/a2-4am/passport.py) A verification and copy program
 *  [ProDisk](https://www.eiroca.net/wiki/software/incubator/prodisk) Imports/exports file(s) between Ms-Dos and ProDos HD Image used by Apple2 emulators like ApplePC
 *  [ProDOS](https://github.com/softwarejanitor/ProDOS) Perl modules and utilities to access ProDOS volume disk images
+*  [prodos](https://github.com/vandry/prodos) ProDOS filesystem reader
 *  [profuse](https://github.com/ksherlock/profuse) ProDOS file system for FUSE
 *  [radius](https://github.com/digarok/radius) 6502 / 65816 Merlin-style assembly code indenter tool
 *  [Rgb2Hires](https://github.com/Pixinn/Rgb2Hires) Converts an RGB image (.png, .jpeg) into a binary file compliant with the Apple II's HIRES format
 *  [sdisk2](https://github.com/rbanffy/sdisk2) Software for the SDISK 2 Disk II emulator for Apple II computers
 *  [ShrinkItArchive](https://github.com/AppleCommander/ShrinkItArchive) A Java library for managing Apple II ShrinkIt archives
 *  [sosar](https://github.com/brouhaha/sosar) Utility to manipulate Apple SOS and ProDOS disk image files
+*  [wdc-utils](https://github.com/ksherlock/wdc-utils) Missing utilities for WDC's 65xx developer tools
 *  [wozardry](https://github.com/a2-4am/wozardry) A multi-purpose tool for manipulating .woz disk images
+### Develop
+*  [standard-delivery](https://github.com/peterferrie/standard-delivery) Apple II single-sector fast boot-loader
 ### Develop / Library
 *  :thumbsup: [WeeGUI](https://github.com/a2-4am/WeeGUI) A compact and easy to use GUI library for 8-bit Apple ][ computers
 *  [6502](https://github.com/option8/6502) 6502 Assembly source files, utilities, bits and bobs. Mostly Apple II
@@ -120,11 +136,13 @@
 *  :thumbsup: [ORCA-C](https://github.com/byteworksinc/ORCA-C) Apple IIGS ORCA/C Compiler, an ANSI C compiler for the 65816 with libraries for the Apple IIGS
 *  :thumbsup: [ORCA-Pascal](https://github.com/byteworksinc/ORCA-Pascal) Apple IIGS ORCA/Pascal Compiler, an ISO Pascal compiler for the 65816 with libraries for the Apple IIGS
 *  :thumbsup: [PLASMA](https://github.com/dschmenk/PLASMA) Proto Language AsSeMbler for All (formerly Apple)
+*  [6502code](https://github.com/JohnSnape/6502code) Code collected on 6502 Assembly Programming course
 *  [a2-chargen-1987](https://github.com/codebur/a2-chargen-1987) HGR Character Generator for the Apple //
 *  [Apple-Befunge](https://github.com/catseye/Apple-Befunge) A dialect of Befunge for the 8-bit Apple II (or Apple ][+ or Apple //e)
 *  [brainfuck6502](https://github.com/Michaelangel007/brainfuck6502) BrainFuck 6502 Interpreter for the Apple ][ //e
 *  [brainfuck6502](https://github.com/peterferrie/brainfuck6502) Interpreter for 6502 Apple II in 144 bytes
 *  [C02](https://github.com/RevCurtisP/C02) I'll add my language and compiler for the 6502 that I just put up on GitHub. I don't have library support for Apple ][ yet. I'll have to add that
+*  [dot_clean](https://github.com/ksherlock/dot_clean) Merge ._AppleDouble files (cross-platform version of Apple's dot_clean utility)
 *  [DumpObj](https://github.com/byteworksinc/DumpObj) DumpObj utility for examining Apple IIGS object modules
 *  [EightBall](https://github.com/bobbimanners/EightBall) An 8-bit algorithmic languange for Apple II, C64, Vic 20. Includes: Interpreter, Bytecode compiler, Virtual Machine, Bytecode disassembler
 *  [FIG-Forth](https://github.com/ForthHub/FIG-Forth) FIG Forth model for Apple II 6502
@@ -132,6 +150,7 @@
 *  [Linker](https://github.com/byteworksinc/Linker) Apple IIGS ORCA Linker, a link editor for the Apple IIGS object module format
 *  [MakeLib](https://github.com/byteworksinc/MakeLib) A utility designed for use with the ORCA development environment for the Apple IIGS, MakeLib creates Apple IIGS formal libraries
 *  [ORCALib](https://github.com/byteworksinc/ORCALib) Libraries for the ORCA language suite (ORCA/C, ORCA/M, ORCA/Pascal) for the Apple IIGS
+*  [shapes](https://github.com/inexorabletash/shapes) Apple II Shape Table Tools
 *  [supermacs](https://github.com/roughana/supermacs) Merlin Assembler Macros for Apple IIgs System Software
 *  [Unidisk](https://github.com/rigreco/Unidisk) UNIDISK 3.5 Apple II co-processor in Merlin Assembler
 *  [VM02](https://github.com/dschmenk/VM02) VM02 is a Java compatible environment for the Apple II series of computers (also https://sourceforge.net/projects/vm02/)
@@ -146,10 +165,14 @@
 *  :thumbsup: [AppleWin](https://github.com/AppleWin/AppleWin) Apple ][ emulator for Windows
 *  :thumbsup: [Kegs](http://kegs.sourceforge.net/) Apple IIgs emulator for Mac OS X, Win32, Linux, and Unix/X11
 *  [a2audit](https://github.com/zellyn/a2audit) Apple II audit routines: for testing your Apple II or emulator
+*  [ActiveGS](http://activegs.freetoolsassociation.com/) ActiveGS Support page
 *  [activegs-ios](https://github.com/ogoguel/activegs-ios) ActiveGS, Apple 2/2GS emulator for iOS
+*  [aiie](https://github.com/JorjBauer/aiie) Apple //e emulator, primarily for the Teensy 3.6
 *  [apple1js](https://github.com/ScullinSteel/apple1js) Apple I emulator written in Javascript
 *  [apple2](https://github.com/mauiaaron/apple2) Apple //e emulator
+*  [apple2](https://github.com/ivanizag/apple2) Portable emulator of an Apple II+. Written in Go. Runs Karateka
 *  [Apple2000](https://github.com/kkralian/Apple2000) Apple ][ emulator for the Amiga
+*  [apple2-go](https://github.com/freewilll/apple2-go) Apple 2 Emulator in Go
 *  [apple2js](https://github.com/whscullin/apple2js) Apple ][ emulator written in Javascript
 *  [apple3rtr](https://github.com/datajerk/apple3rtr) Apple /// Ready-to-Run
 *  [appleii-android](https://github.com/umjammer/vavi-apps-appleii-android) Apple II Emulator for Android
@@ -174,6 +197,7 @@
 *  [JACE](https://github.com/badvision/jace) Java Apple Computer Emulator. Apple IIe emulator written in JAVA. Includes all resolution modes and Mockingboard Support. Runs all Windows, Mac OSX and Linux
 *  [japple2](https://sourceforge.net/projects/japple2) A Complete Apple II/II+ Emulator written in Java to be capable of running from Java Webstart
 *  [jsbasic](https://github.com/inexorabletash/jsbasic) Applesoft BASIC in JavaScript
+*  [kegs](https://github.com/jamessanford/kegs) Android port of KEGS Apple IIgs Emulator
 *  [LinApple](https://github.com/linappleii/linapple) Apple //e emulator (forked repo)
 *  [LinApple](https://sourceforge.net/projects/linapple/) Apple //e emulator (original repo)
 *  [OpenEmulator-OSX](https://github.com/OpenEmulatorProject/OpenEmulator-OSX) OpenEmulator
@@ -182,22 +206,33 @@
 *  [reinette](https://github.com/ArthurFerreira2/reinette) Reinette, the french Apple 1 emulator
 *  [reinette-II](https://github.com/ArthurFerreira2/reinette-II) Reinette II, the french Apple II emulator
 *  [RetroPie](https://github.com/RetroPie/RetroPie-Setup/wiki/Apple-II) Apple 2 on retropie how to
+*  [rustyapple](https://github.com/sehugg/rustyapple) Rust version of an Apple II emulator
+*  [soundsmith](https://github.com/mrkite/soundsmith) Javascript Soundsmith Music Player
+*  [twoapple-reboot](https://github.com/edmccard/twoapple-reboot) An Apple II emulator for linux, written in D
 *  [Virtu](https://github.com/digital-jellyfish/Virtu) Apple //e emulator for the .NET Framework using C# with Silverlight, WPF, and XNA
+*  [Virtualii](http://www.virtualii.com/) Virtual ][ is an application that emulates the vintage Apple II computer on your Mac
 *  [WOZ format](https://applesaucefdc.com/woz/) The WOZ Disk Image format was designed to be able to contain every possible Apple ][ disk structure and layout. It can be so accurate that even copy protected software can’t tell that it isn’t an original disk
 ### Hardware
 *  [A2JoystickAdapter](https://github.com/ppelleti/A2JoystickAdapter) A simple board to connect a 16-pin Apple II joystick to the 9-pin connector on the back of Apple IIe and later computers
 *  [A2NoSlotMIDI](https://github.com/erangell/A2NoSlotMIDI) Apple 2 series No Slot MIDI interface using Annunciators on internal Game I/O socket
+*  [A2Server](http://appleii.ivanx.com/a2server/) A2SERVER lets you use a Raspberry Pi, or almost any other computer, to serve files to Apple IIgs and enhanced IIe computers on your network. You'll also be able to boot into GS/OS or ProDOS 8 directly from tne network (no drives needed)
+*  [a2watch](https://www.instructables.com/id/Apple-II-Watch/) Apple 2 watch
 *  [aekii](https://github.com/cfenollosa/aekii) Tuning an Apple Extended Keyboard II
 *  [Apple_II_Keyboard](https://github.com/mafrmt00/Apple_II_Keyboard) Arduino Sketch to use a USB keyboard with an Apple II as ASCII keyboard
+*  [Apple_IIGS_MemExpansion](https://github.com/calphool/Apple_IIGS_MemExpansion) Collection area for my Apple IIGS Memory Expansion board
 *  [Apple2CharGen](https://github.com/dschmenk/Apple2CharGen) How to create a custom Apple ][ character generator ROM
 *  [apple2pi](https://github.com/dschmenk/apple2pi) Apple II client/server for Raspberry Pi
+*  [Apple-410](https://github.com/phooky/Apple-410) Documentation and driver for the Apple 410 Color Plotter
 *  [applecb](https://sourceforge.net/projects/applecb) A FPGA based programmable hardware card for the Apple II
+*  [Apple-II_MiSTer](https://github.com/MiSTer-devel/Apple-II_MiSTer) Apple II+ for MiSTer
+*  [apple-iic-testing](https://github.com/bman12three4/apple-iic-testing) Just me figuring out how to write assembly for the apple Iic
 *  [Apple-II-Gate-Level-Xilinx-ISE-14.7-Schematic-Entry](https://github.com/fred6502/Apple-II-Gate-Level-Xilinx-ISE-14.7-Schematic-Entry) Creating a functional gate level Apple II from Apple II schematic
 *  [Apple-II-Joystick-to-USB-Adapter](https://github.com/stratosonic/Apple-II-Joystick-to-USB-Adapter) Apple II Joystick to USB Adapter
 *  [AppleIIMini](https://github.com/Cupcakus/AppleIIMini) A miniature Apple II for those how cannot afford the real thing or just want a miniature version!
 *  [AppleIIMouse](https://github.com/freitz85/AppleIIMouse) Apple II mouse
 *  [AppleIISd](https://github.com/freitz85/AppleIISd) SD card based ProFile replacement for IIe
 *  [applelogic.org](http://www.applelogic.org/index.html) The AppleLogic website is all about FPGAs and Apple systems. After thirty odd years since the initial introduction of the Apple II and more than fourteen years since it was discontinued, new FPGA technologies have given this fascinating and incredibly popular computer a new lease of life
+*  [cricket](https://github.com/inexorabletash/cricket) Apple II ProDOS Clock Driver for The Cricket!
 *  [espple](https://github.com/datajerk/espple) Apple 1 Emulator with PAL RF Output
 *  [fpga-disk-controller](https://github.com/steve-chamberlin/fpga-disk-controller) An FPGA-based disk controller card for the Apple II
 *  [gp2io](https://github.com/option8/gp2io) GP2IO board for Apple II, presented at KansasFest 2016
@@ -209,33 +244,46 @@
 *  [Apple 2 projects](https://github.com/nategri/apple2) Various Apple II related projects
 *  [asm816](https://github.com/ksherlock/asm816) Automatically exported from code.google.com/p/asm816
 *  [brutaldeluxe](https://www.brutaldeluxe.fr/) Since 1992, we have made several software for the Apple IIgs. Before that date, we have released other software for the Apple II line
+*  [iigs](https://github.com/ksherlock/iigs) Miscellaneous Apple II stuff that doesn't warrant a full project in and of itself
 *  [IIgsResource](https://github.com/ksherlock/iigsresources/tree/master/IIgsResource) Automatically exported from code.google.com/p/iigsresources
+*  [iigsresources](https://github.com/ksherlock/iigsresources) Apple Iigs resources
 *  [lessismore](https://github.com/apple2abandonware/lessismore) Collection of the very best Apple ][ abandonware
 *  [linkiigs](https://github.com/ksherlock/linkiigs) Automatically exported from code.google.com/p/linkiigs
 *  [Michaelangel007](https://github.com/Michaelangel007) Graphic tutorials, RWTS18 source code, Mockingboard, Diversi DOS the list goes on
 *  [peterferrie](https://github.com/peterferrie) Fast boot, Hires compression, Lawless Legends too many to list just look
 ### Other
 *  [sword_of_kadash_map](https://github.com/bogbert/sword_of_kadash_map) A vintage map of the Apple II game Sword of Kadash
+### Shop
+*  [ct6502](https://ct6502.org/) Shop
 ### Software
 *  :thumbsup: [Prodos](https://prodos8.com/) Advanced version of ProDOS that adds new features for all Apple II computers, including the 1977 Integer ROM Apple II
 *  :thumbsup: [rogue-like](https://github.com/Pixinn/rogue-like) A rogue-like game for the Apple II
+*  [4cade](https://github.com/a2-4am/4cade) 100s of games at your fingertips, as long as your fingertips are on an Apple ][
+*  [8BITCOIN](https://github.com/option8/8BITCOIN) Mining Bitcoin on an Apple II
 *  [a2audit](https://github.com/zellyn/a2audit) Apple II audit routines: for testing your Apple II or emulator
 *  [a2-chemi-gs-1993](https://github.com/codebur/a2-chemi-gs-1993) Apple IIgs Drawing program for chemical structures (unfinished)
 *  [A2osX](https://github.com/burniouf/A2osX) Multi-Tasking OS for Apple II
 *  [a2server](https://github.com/RasppleII/a2server) AppleTalk server for Apple // computers
 *  [a2-terminfo](https://github.com/ksherlock/a2-terminfo) Apple II Terminal Info
+*  [A2-webserver](http://www.deater.net/weave/vmwprod/apple2_eth/) Applesoft BASIC Webserver
 *  [AFPBridge](https://github.com/sheumann/AFPBridge) A tool to let the Apple IIgs connect to AFP file servers over TCP/IP
 *  [alarm-clock-6502](https://github.com/gungwald/alarm-clock-6502) A retro alarm clock app
+*  [anti-m](https://github.com/a2-4am/anti-m) Boot any Apple II disk on any Apple II
 *  [Apple1-Slideshow](https://github.com/dschmenk/Apple1-Slideshow) ASCII art slideshow for Apple 1 (as seen on most Apple 1 auctions)
+*  [apple2](https://github.com/tcjennings/apple2) Apple II Software
 *  [apple2-delete-key-handler-from-gid](https://github.com/gungwald/apple2-delete-key-handler-from-gid) Delete key handler
+*  [Apple-II_DOND](https://github.com/SweepingDeveloper/Apple-II_DOND) My Deal Or No Deal game for Apple II
 *  [appleiigraphica](https://sourceforge.net/projects/appleiigraphica) Apple II graphical web browser, using uIP and Uthernet, RamWorks III type AUX RAM card
 *  [Apple-II-Programs](https://github.com/thelbane/Apple-II-Programs) A collection of short programs for the Apple II
 *  [Apple-II-System-Masters](https://github.com/cmosher01/Apple-II-System-Masters) Collection of System Master disk images for the Apple ][ series computers
 *  [apple-II-videos](https://github.com/frankmilliron/apple-II-videos) Full-speed lores video playback on the Apple II-series computers
 *  [Applied Engineering](https://ae.applearchives.com/) Applied Engineering Repository
 *  [australian-apple-ii-software](https://jbretro.wordpress.com/category/apple-ii-software-including-disk-images/) Australian Apple 2 software
+*  [babelfish_applesoft](https://github.com/ksherlock/babelfish_applesoft) Applesoft translator for Babelfish
 *  [bunzip2](https://github.com/sheumann/bunzip2) Bzip2 decompressor for GNO
+*  [chtype](https://github.com/inexorabletash/chtype) Change file type command for Apple II ProDOS
 *  [ConwayII](https://github.com/thelbane/ConwayII) Pretty fast implementation of Conway's Game of Life for Apple II
+*  [cppo-ng](https://github.com/iKarith/cppo-ng) Rewriting cppo one piece at a time
 *  [Cybernoid](https://github.com/tomcw/Cybernoid) Apple II Cybernoid music disk
 *  [Davex](https://github.com/david-schmidt/Davex) Davex is a command-line shell for the Apple II family of computers. Davex runs on ProDOS 8, and a subset of functionality is ported to SOS
 *  [delhndlr](https://github.com/gungwald/delhndlr) Makes the Delete key work as expected on an Apple II in ProDOS BASIC.SYSTEM
@@ -243,13 +291,17 @@
 *  [dmake](https://github.com/sheumann/dmake) Make tool for GNO
 *  [electric-mock](https://github.com/cybernesto/electric-mock) Apple II Electric Duet player for the Mockingboard and the Cricket!
 *  [F15-DGamma-Clone-A2](https://github.com/C64CD/F15-DGamma-Clone-A2) Apple II crack intro style release
+*  [Factory-Game](https://github.com/bman12three4/Factory-Game) A factorio inspired game for the Apple IIc and Iie
 *  [festro](https://github.com/digarok/festro) Festro by Digarok - Apple II intro/demo with a KansasFest theme - 65c02 assembly
 *  [gameoflife-appleii](https://github.com/Pixinn/gameoflife-appleii) port of Conway's Game of Life for Apple II computers
+*  [GEOS](http://toastytech.com/guis/a2geos.html) GEOS For the Apple II
 *  [gno](https://github.com/GnoConsortium/gno) GNO is the UNIX-like environment for the Apple IIgs
+*  [gno-kern](https://github.com/ksherlock/gno-kern) GNO/ME kernel (split from monorepo)
 *  [gopher](https://github.com/ksherlock/gopher) A gopher client for the Apple IIgs
 *  [host-fst](https://github.com/ksherlock/host-fst) Apple IIgs host FST (for emulators that support it)
 *  [host-modemworks](https://github.com/ksherlock/host-modemworks) ModemWorks modules for the KEGS emulator
 *  [hush](https://github.com/sheumann/hush) Hush (a Bourne-style shell) for the GNO multitasking environment on the Apple IIgs
+*  [ii-vision](https://github.com/KrisKennaway/ii-vision) Streaming video and audio for Apple II
 *  [ksynth](https://github.com/option8/ksynth) Beginnings of a dual tone synthesizer for the Apple II
 *  [marignotti](https://github.com/ksherlock/marignotti) GNO + Marinetti = MariGNOtti
 *  [marlene](https://github.com/ksherlock/marlene) Four-color, vt100 telnet client for the Apple IIgs
@@ -258,13 +310,26 @@
 *  [MouseII](https://github.com/blondie7575/MouseII) A mouse driver for Apple II computers
 *  [mouse-maze](https://sourceforge.net/projects/mouse-maze) Mouse A.I. simulation for the Apple II computer
 *  [online](https://github.com/gungwald/online) Shows all online volumes on an Apple II computer
+*  [passport-test-suite](https://github.com/a2-4am/passport-test-suite) A collection of disk images to provide code coverage for Passport
+*  [pitch-dark](https://github.com/a2-4am/pitch-dark) It is Pitch Dark. You are likely to be eaten by a GUI
+*  [pitch-darker](https://github.com/a2-4am/pitch-darker) It is Pitch Dark. You are likely to be eaten by a GUI
 *  [PrintShopCompanion-Apple-II](https://github.com/photogrammer/PrintShopCompanion-Apple-II) Print Shop Companion
+*  [prodos-path](https://github.com/inexorabletash/prodos-path) PATH command for Apple II ProDOS
+*  [ProDOS-ROM-Drive](https://github.com/tjboldt/ProDOS-ROM-Drive) A bootable 1 MB solid state disk for Apple ][ computers
+*  [pt3_player](http://www.deater.net/weave/vmwprod/pt3_player/) This is an attempt to play some complex chiptune files on an old Apple II with a Mockingboard card
 *  [qserver](https://github.com/ksherlock/qserver) Apple IIgs Quote Of The Day server
 *  [rain](https://github.com/option8/rain) Low res falling rain animation for Apple II, in 6502 assembly
+*  [ram.drv.system](https://github.com/inexorabletash/ram.drv.system) Glen E. Bredon's RAM.DRV.SYSTEM for Apple II ProDOS
+*  [rlint](https://github.com/ksherlock/rlint) lint for IIgs resource forks
 *  [robotwar](https://github.com/richardharrington/robotwar) Robots fight to the death in a virtual arena (based on the game for the Apple II)
+*  [rom4x](https://github.com/mgcaret/rom4x) Improved Apple //c (ROM 4X) and Apple IIc Plus (ROM 5X) firmware
+*  [romex](https://github.com/mgcaret/romex) Enhanced ROM for Apple //e computers
 *  [septic-a2](https://github.com/magic-roundabout/septic-a2) A small Apple II demo with beeper music
 *  [SHR-NTSC](https://github.com/dschmenk/SHR-NTSC) NTSC artifact colors for Apple IIGS
 *  [sider-xebec-disassembly](https://github.com/FozzTexx/sider-xebec-disassembly) Disassembly of the Sider/Xebec SASI card ROM and tools for the Apple II
+*  [Snake](https://github.com/nlflint/Snake) Snake game
+*  [softwarelibrary_apple_games](https://archive.org/details/softwarelibrary_apple_games) Games and entertainment software for the Apple II
+*  [tcpsnooper](https://github.com/ksherlock/tcpsnooper) Marinetti tcp snooper CDA
 *  [telnetd](https://github.com/sheumann/telnetd) Telnetd for GNO
 *  [the_mill_daughterboard](https://github.com/lucaridarelli/the_mill_daughterboard) Apple II Stellation Two The Mill OS9 Daughterboard PCB and PROM source
 *  [transformer](https://github.com/Luigi30/transformer) Transform 2D coordinates with an Apple IIGS
@@ -272,7 +337,10 @@
 *  [Undertale_AppleII](https://github.com/meladroit/Undertale_AppleII) Undertale music/graphics demo for Apple IIe/IIc computers with 64K RAM or more
 *  [VBMP](https://github.com/cybernesto/VBMP) BMP Viewer for the Apple II
 *  [vi65](https://sourceforge.net/projects/vi65) VI editor for 6502 based systems
+*  [vn//c](https://inexorabletash.github.io/vnIIc/) Desktop streaming to an Apple II with Super Serial Card
 *  [VNCviewGS](https://github.com/sheumann/VNCviewGS) VNCview GS: The VNC client for the Apple IIgs
+*  [vnIIc](https://github.com/inexorabletash/vnIIc) Screen streaming to the Apple II
+*  [xHD](https://github.com/ProDOS-8/xHD) Virtual disk drive based on ideas from Terence J. Boldt
 ### Software / Games
 *  [AII2048](https://github.com/david-schmidt/AII2048) Apple II 2048 Game
 *  [Apple_IIe_Snake](https://github.com/alonf/Apple_IIe_Snake) Apple II Snake game written in 6502 Assembly
