@@ -19,8 +19,10 @@
 *  [Altirra](http://virtualdub.org/altirra.html) Altirra, an 8-bit Atari computer emulator
 *  [Atari 800](https://atari800.github.io/) Atari800 is the emulator of Atari 8-bit computer systems and 5200 game console for Unix, Linux, Amiga, MS-DOS, Atari TT/Falcon, MS-Windows, MS WinCE, Sega Dreamcast, Android and other systems supported by the SDL library
 *  [Atari++](http://www.xl-project.com/) The Atari++ Emulator is a Unix based emulator of the Atari eight bit computers, namely the Atari 400 and 800, the Atari 400XL, 800XL and 130XE, and the Atari 5200 game console
+*  [javatari.js](https://github.com/ppeccin/javatari.js) Javatari - Online Atari 2600 Emulator
 *  [Sim2600](https://github.com/gregjames/Sim2600) Visual6502.org transistor-level simulation of the Atari 2600 game console
 ### Emulator / Atari ST
 *  [Hatari](https://hatari.tuxfamily.org/) Hatari is an Atari ST/STE/TT/Falcon emulator for GNU/Linux, BSD, Mac OS X, Windows and other systems which are supported by the SDL library
 ### Software
+*  [Atomchess-6502](https://github.com/nanochess/Atomchess-6502) Toledo Atomchess for Atari VCS/2600
 *  [freemint](https://freemint.github.io/) Unix-like kernel for Atari ST and compatible computers

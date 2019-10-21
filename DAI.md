@@ -1,5 +1,8 @@
 # Awesome List of Indata DAI resources
 
+## Related
+* [Awesome List of 8080, Z80, ...  resources](z80.md)
+
 ### Blog
 *  :thumbsup: [Here](http://bruno.vivien.pagesperso-orange.fr/DAI/index.htm) Greatest collection of resources related to the DAI computer (French)
 *  [Here](http://tomislavmikulic.com/freebooks.htm) Book that describes how the DAI computer was used in Sarajevo 1984 Olympic games
