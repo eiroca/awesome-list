@@ -127,7 +127,9 @@
 *  [cristel](https://github.com/cquest/cristel) 6502 assembly code to extend the Applesoft BASIC with 20+ new commands to access the Apple Tell card
 *  [gscifs](https://github.com/cshepherd/gscifs) CIFS implementation for the Apple IIGS using Marinetti TCP/IP stack
 *  [here](http://www.apple1notes.com/old_apple/Monitor_II_on_1.html) Monitor II on Apple 1
+*  [HIRES-scroll](https://github.com/mgolombeck/HIRES-scroll) Apple ][ HIRES scrolling algorithm
 *  [HiSprite](https://github.com/blondie7575/HiSprite) A hi-res sprite compiler for Apple II
+*  [HW-detect](https://github.com/mgolombeck/HW-detect) Hardware detection for Apple ][ computers
 *  [iigs-game-engine](https://github.com/lscharen/iigs-game-engine) A tile-based game engine for the Apple IIgs written in 65816 asssembly language
 *  [iigs-sprite-compiler](https://github.com/lscharen/iigs-sprite-compiler) Utility to generate 65816 compiled sprites using informed search methods
 *  [libsoundGS](https://github.com/cshepherd/libsoundGS) Apple IIGS sound library
@@ -164,7 +166,7 @@
 ### Develop / Tutorials
 *  [APLOC2](https://github.com/nednal12/APLOC2) Master directory for Apple Programming Language Objective C II
 *  [apple2_hgr_font_tutorial](https://github.com/Michaelangel007/apple2_hgr_font_tutorial) Apple ][ //e HGR Font Tutorial
-*  [apple2_hgrbyte](https://github.com/Michaelangel007/apple2_hgrbyte) Apple 2 HGR Byte Inspector
+*  [apple2_hgrbyte](https://github.com/Michaelangel007/apple2_hgrbyte) Apple II HGR Byte Inspector
 *  [greenscale](https://github.com/option8/greenscale) Low res monochrome experiments for Apple II
 *  [gslib](https://github.com/digarok/gslib) Apple IIgs Assembly Language Crash Course
 *  [mrbuffer](https://github.com/mach-kernel/mrbuffer) Apple IIgs simple 40char buffer editor. Written in 658c16 assembly
@@ -234,7 +236,7 @@
 *  [Apple_IIGS_MemExpansion](https://github.com/calphool/Apple_IIGS_MemExpansion) Collection area for my Apple IIGS Memory Expansion board
 *  [Apple2CharGen](https://github.com/dschmenk/Apple2CharGen) How to create a custom Apple ][ character generator ROM
 *  [apple2pi](https://github.com/dschmenk/apple2pi) Apple II client/server for Raspberry Pi
-*  [Apple2-Prototyping-Card](https://github.com/tebl/Apple2-Prototyping-Card) Prototyping card for developing new hardware for legacy Apple ][, //e and //gs computers
+*  [Apple2-Prototyping-Card](https://github.com/tebl/Apple2-Prototyping-Card) Prototyping card for developing new hardware for legacy Apple ][, //e and IIgs computers
 *  [Apple-410](https://github.com/phooky/Apple-410) Documentation and driver for the Apple 410 Color Plotter
 *  [applecb](https://sourceforge.net/projects/applecb) A FPGA based programmable hardware card for the Apple II
 *  [Apple-II_MiSTer](https://github.com/MiSTer-devel/Apple-II_MiSTer) Apple II+ for MiSTer
@@ -250,6 +252,7 @@
 *  [fpga-disk-controller](https://github.com/steve-chamberlin/fpga-disk-controller) An FPGA-based disk controller card for the Apple II
 *  [gp2io](https://github.com/option8/gp2io) GP2IO board for Apple II, presented at KansasFest 2016
 *  [mango_one](https://github.com/sehugg/mango_one) Simple Apple I-inspired 6502 computer in Verilog
+*  [NetBoot_LC](https://github.com/mgcaret/NetBoot_LC) Replacement AppleTalk boot blocks for Apple IIe Card for Macintosh LC
 *  [RetroConnector](https://github.com/option8/RetroConnector) RetroConnector series of open source adapter boards for Apple || series computers
 *  [serial-wifi](https://github.com/option8/serial-wifi) A serial-to-wifi adapter for the Apple II
 ### Misc
@@ -273,6 +276,8 @@
 ### Software
 *  :thumbsup: [Prodos](https://prodos8.com/) Advanced version of ProDOS that adds new features for all Apple II computers, including the 1977 Integer ROM Apple II
 *  :thumbsup: [rogue-like](https://github.com/Pixinn/rogue-like) A rogue-like game for the Apple II
+*  [3D-Demo](https://github.com/mgolombeck/3D-Demo) 3D-Demo for the Apple ][
+*  [3D-star-field](https://github.com/mgolombeck/3D-star-field) 3D star field demo
 *  [4cade](https://github.com/a2-4am/4cade) 100s of games at your fingertips, as long as your fingertips are on an Apple ][
 *  [6502_linux_logo](https://github.com/Michaelangel007/6502_linux_logo) Linux Logo in 6502 assembly
 *  [8BITCOIN](https://github.com/option8/8BITCOIN) Mining Bitcoin on an Apple II
@@ -319,6 +324,7 @@
 *  [cppo-ng](https://github.com/iKarith/cppo-ng) Rewriting cppo one piece at a time
 *  [Cybernoid](https://github.com/tomcw/Cybernoid) Apple II Cybernoid music disk
 *  [Davex](https://github.com/david-schmidt/Davex) Davex is a command-line shell for the Apple II family of computers. Davex runs on ProDOS 8, and a subset of functionality is ported to SOS
+*  [davex-mg-utils](https://github.com/mgcaret/davex-mg-utils) MG's utilities for the davex shell for Apple II ProDOS
 *  [delhndlr](https://github.com/gungwald/delhndlr) Makes the Delete key work as expected on an Apple II in ProDOS BASIC.SYSTEM
 *  [dict](https://github.com/ksherlock/dict) IIgs dict (RFC 2229) client
 *  [Directi-DOS](https://github.com/peterferrie/Directi-DOS) Apple II Diversi-DOS direct to LC, in two tracks
@@ -339,6 +345,7 @@
 *  [ksynth](https://github.com/option8/ksynth) Beginnings of a dual tone synthesizer for the Apple II
 *  [marignotti](https://github.com/ksherlock/marignotti) GNO + Marinetti = MariGNOtti
 *  [marlene](https://github.com/ksherlock/marlene) Four-color, vt100 telnet client for the Apple IIgs
+*  [matrIIx](https://github.com/mgolombeck/matrIIx) Apple ][ matrix demo
 *  [mcs-player](https://github.com/cybernesto/mcs-player) Music Construction Set Mockingboard interrupt player for Apple II
 *  [mktrashdove](https://github.com/mouse6502/mktrashdove) Apple II Trash Dove (A Double Lores / BMP2DHR Tutorial)
 *  [MouseII](https://github.com/blondie7575/MouseII) A mouse driver for Apple II computers
