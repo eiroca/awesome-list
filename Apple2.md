@@ -14,7 +14,9 @@
 *  [bluerwhite](https://www.bluerwhite.org/) Bluer White
 *  [brutaldeluxe](http://www.brutaldeluxe.fr/) Brutal Deluxe Software is a small group of programmers located around Paris, France
 *  [call apple](https://www.callapple.org/) Apple user group
+*  [clipshop](http://www.clipshop.ca/DiskImages/index.htm) Disk Images and Tools for the Apple II
 *  [crack-screens](http://artscene.textfiles.com/intros/APPLEII/) Apple 2 crack screens
+*  [ctrl.pomme.reset](http://ctrl.pomme.reset.free.fr/) Apple 2 French blog
 *  [dreher](http://dreher.net/) Projects for Apple 2
 *  [finapple](https://finapple.hho.fi/finapple/) Apple 2 in Finland
 *  [Here](http://schmenk.is-a-geek.com/wordpress/) Apple 2 related project blog
@@ -117,6 +119,7 @@
 *  [6502](https://github.com/option8/6502) 6502 Assembly source files, utilities, bits and bobs. Mostly Apple II
 *  [0boot](https://github.com/peterferrie/0boot) Fast bootable Read Track/Sector routine (single)
 *  [65816-crypto](https://github.com/sheumann/65816-crypto) Crypto algorithm implementations for the 65816
+*  [8bit-unity](http://8bit-unity.com/) 8bit-Unity is the cross-platform C language SDK for the CC65 compiler, which allows writing your game only once, and then deploy it on all those platforms
 *  [a2graph](https://github.com/pedgarcia/a2graph) CC65 Lo-Res graphic library for the Apple II
 *  [a2render](https://github.com/martinhaye/a2render) Apple II game rendering engine
 *  [apple2_printm](https://github.com/Michaelangel007/apple2_printm) printm - a modular micro printf replacement for 65C02
@@ -284,7 +287,7 @@
 *  [a2audit](https://github.com/zellyn/a2audit) Apple II audit routines: for testing your Apple II or emulator
 *  [a2-chemi-gs-1993](https://github.com/codebur/a2-chemi-gs-1993) Apple IIgs Drawing program for chemical structures (unfinished)
 *  [A2osX](https://github.com/burniouf/A2osX) Multi-Tasking OS for Apple II
-#REF!
+*  [a2server](https://github.com/RasppleII/a2server) AppleTalk server for Apple // computers
 *  [a2-terminfo](https://github.com/ksherlock/a2-terminfo) Apple II Terminal Info
 *  [A2-webserver](http://www.deater.net/weave/vmwprod/apple2_eth/) Applesoft BASIC Webserver
 *  [AFPBridge](https://github.com/sheumann/AFPBridge) A tool to let the Apple IIgs connect to AFP file servers over TCP/IP
@@ -314,6 +317,7 @@
 *  [Apple-II-Programs](https://github.com/thelbane/Apple-II-Programs) A collection of short programs for the Apple II
 *  [Apple-II-System-Masters](https://github.com/cmosher01/Apple-II-System-Masters) Collection of System Master disk images for the Apple ][ series computers
 *  [apple-II-videos](https://github.com/frankmilliron/apple-II-videos) Full-speed lores video playback on the Apple II-series computers
+*  [apple-pascal-time](https://github.com/slapdau/apple-pascal-time) Reading RTC clock hardware and setting the system date at boot for Apple Pascal
 *  [Applied Engineering](https://ae.applearchives.com/) Applied Engineering Repository
 *  [australian-apple-ii-software](https://jbretro.wordpress.com/category/apple-ii-software-including-disk-images/) Australian Apple 2 software
 *  [babelfish_applesoft](https://github.com/ksherlock/babelfish_applesoft) Applesoft translator for Babelfish
