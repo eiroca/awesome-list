@@ -6,17 +6,20 @@
 ### Blog / Directory
 *  [1mhz](http://monsterfeet.com/1mhz/) Apple 2 podcast
 *  [a2blog](https://www.golombeck.eu/index.php?id=5) Apple 2 blog
+*  [apl2bits](https://www.apl2bits.net/) Apple II Bits
 *  [APPLE CRAPPLE](http://apple-crapple.blogspot.com/) Adventures in Retro Computing, Hacking and Other Madness
 *  [Apple2 org](http://apple2.org/) The site contains over 500 images of Apple ][ Hardware and a few others as well
 *  [apple2.gs](https://apple2.gs/) This is a place to learn about programming the Apple Iigs
 *  [apple2online.com](https://apple2online.com/) single-source, easy-to-use library of reference materials - software, manuals, FAQs, photos, links, etc…
 *  [appleii-box](http://www.appleii-box.de/) Misc resources
+*  [applelogic](http://www.applelogic.org/) The AppleLogic website is all about FPGAs and Apple systems
 *  [bluerwhite](https://www.bluerwhite.org/) Bluer White
 *  [brutaldeluxe](http://www.brutaldeluxe.fr/) Brutal Deluxe Software is a small group of programmers located around Paris, France
 *  [call apple](https://www.callapple.org/) Apple user group
 *  [clipshop](http://www.clipshop.ca/DiskImages/index.htm) Disk Images and Tools for the Apple II
 *  [crack-screens](http://artscene.textfiles.com/intros/APPLEII/) Apple 2 crack screens
 *  [ctrl.pomme.reset](http://ctrl.pomme.reset.free.fr/) Apple 2 French blog
+*  [davidstancu](https://davidstancu.me/) How to write a text editor for a 31 year old computer
 *  [dreher](http://dreher.net/) Projects for Apple 2
 *  [finapple](https://finapple.hho.fi/finapple/) Apple 2 in Finland
 *  [Here](http://schmenk.is-a-geek.com/wordpress/) Apple 2 related project blog
@@ -85,6 +88,7 @@
 *  [DOS33](https://github.com/softwarejanitor/DOS33) Perl Modules and utilities for working with Apple II DOS 3.3 disk images
 *  [dos33fsprogs](https://github.com/deater/dos33fsprogs) Tools for manipulating Apple II DOS files
 *  [dsk2nib](https://github.com/slotek/dsk2nib) Apple 2 DSK/NIB Converter Utilities
+*  [dsk2po](https://github.com/paulhagstrom/dsk2po) Python script to convert Apple II/III .DSK (DO) images to ProDOS-ordered images
 *  [dsk2woz](https://github.com/TomHarte/dsk2woz) A command-line tool to convert Apple II DSK images to WOZ format
 *  [DSKalyzer](https://github.com/paleotronic/dskalyzer) Cross-platform command-line tool for manipulating and managing Apple II DSK (and other) images
 *  [dsktool.rb](https://github.com/cybernesto/dsktool.rb) dsktool.rb is a command line tool + libraries (all in ruby) for manipulating DSK format images used by Apple 2 emulators
@@ -114,6 +118,7 @@
 *  [wozardry](https://github.com/a2-4am/wozardry) A multi-purpose tool for manipulating .woz disk images
 ### Develop
 *  [standard-delivery](https://github.com/peterferrie/standard-delivery) Apple II single-sector fast boot-loader
+*  [Zapple-II](https://github.com/bobbimanners/Zapple-II) Tools for building and running Z80 code under ProDOS on an Apple II with a Z80 Softcard (or clone)
 ### Develop / Library
 *  :thumbsup: [WeeGUI](https://github.com/a2-4am/WeeGUI) A compact and easy to use GUI library for 8-bit Apple ][ computers
 *  [6502](https://github.com/option8/6502) 6502 Assembly source files, utilities, bits and bobs. Mostly Apple II
@@ -176,6 +181,7 @@
 ### Emulator
 *  :thumbsup: [AppleWin](https://github.com/AppleWin/AppleWin) Apple ][ emulator for Windows
 *  :thumbsup: [Kegs](http://kegs.sourceforge.net/) Apple IIgs emulator for Mac OS X, Win32, Linux, and Unix/X11
+*  [A1](https://www.shadertoy.com/view/tlX3W7) Apple I Emulator
 *  [a2audit](https://github.com/zellyn/a2audit) Apple II audit routines: for testing your Apple II or emulator
 *  [ActiveGS](http://activegs.freetoolsassociation.com/) ActiveGS Support page
 *  [activegs-ios](https://github.com/ogoguel/activegs-ios) ActiveGS, Apple 2/2GS emulator for iOS
@@ -412,6 +418,7 @@
 *  [ADTPro](http://adtpro.com/) Apple Disk Transfer ProDOS
 *  [afscanner](https://github.com/a2geek/afscanner) Apple Disk II address field scanner
 *  [anti-m](https://github.com/a2-4am/anti-m) Boot any Apple II disk on any Apple II
+*  [Apple-Disk-II-PROM-Verify](https://github.com/JoaoPagotto/Apple-Disk-II-PROM-Verify) Apple Disk II PROM Verify
 *  [basic-system-cmd](https://github.com/a2geek/basic-system-cmd) ProDOS BASIC.SYSTEM commands
 *  [dhrslide](https://github.com/a2-4am/dhrslide) A small double hi-res slideshow for the 128K Apple II
 *  [fdraw](https://github.com/fadden/fdraw) Fast graphics routines for the Apple II
@@ -420,6 +427,7 @@
 *  [passport](https://github.com/a2-4am/passport) A verification and copy program for 5.25-inch Apple II floppy disks
 ### Source code
 *  [a2d](https://github.com/inexorabletash/a2d) Disassembly of the Apple II Desktop
+*  [a2d](https://github.com/a2stuff/a2d) Disassembly of the Apple II Desktop - ProDOS GUI
 *  [a3a2em](https://github.com/brouhaha/a3a2em) Partial reverse-engineering of the Apple II emulation disk for the Apple 3
 *  [apple2_applesoft](https://github.com/Michaelangel007/apple2_applesoft) Mirror of Jamtronix's HTML Applesoft Source
 *  [apple2_gumball](https://github.com/Michaelangel007/apple2_gumball) Apple 2 Game Gumball Reverse Engineering
@@ -431,8 +439,10 @@
 *  [Apple-II-Source](https://github.com/cmosher01/Apple-II-Source) Source code for Apple ][ series System Software and DOS
 *  [beneath-apple-dos](https://github.com/iKarith/beneath-apple-dos) Beneath Apple DOS on github. A version of the book and also source code of Don Worth's Programs
 *  [bilestoad-apple2](https://github.com/historicalsource/bilestoad-apple2) Source Code and Data for The Bilestoad by Datamost (1983)
+*  [diskserver](https://asciiexpress.net/diskserver/) Online Apple II Disk Server
 *  [EdAsm](https://github.com/markpmlim/EdAsm) Source code from the disassembly of Apple ProDos Assembler package
 *  [gno-sources](https://github.com/ksherlock/gno-sources) GNO Sources from the Golden Orchard CD
+*  [goldengate](http://goldengate.gitlab.io/about/) Golden Gate by Kelvin Sherlock is a compatibility layer for ORCA and GNO/ME command line programs
 *  [lawless-legends](https://github.com/badvision/lawless-legends) Open-source code and assets from Lawless Legends and its supporting tools
 *  [macross](https://github.com/Museum-of-Art-and-Digital-Entertainment/macross) Macross 6502, the assembler written by Lucasfilm Ltd. that was used for Habitat and SCUMM
 *  [mxp](https://github.com/a2retrosystems/mxp) a2RetroSystems Memory Expansion Plus

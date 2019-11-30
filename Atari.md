@@ -6,12 +6,15 @@
 ### Blog / Directory
 *  [Atari Archives](https://www.atariarchives.org/) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web
 *  [AtariWiki](https://atariwiki.org/wiki/) The AtariWiki is a collection of Information about the Atari 8-Bit computer line mainly intended for programmers. It covers topics specific to the Atari 8-bit computers, but also generic programming topics like the 6502 line of processors, pProgramming languages available for the Atar8 8-bit machines and generic programming tips and tricks
+### Cross / Develop
+*  [mads](http://mads.atari8.info/) Assembler and Pascal comiler
 ### Cross / Tools
 *  [ASAP](http://asap.sourceforge.net/) ASAP is a player of Atari 8-bit chiptunes for modern computers and mobile devices
 *  [xebin](https://github.com/epi/xebin) Atari XL/XE Binary File Utility
 *  [xedisk](https://github.com/epi/xedisk) Atari XL/XE Disk Image Utility
 ### Develop
 *  [fastbasic](https://github.com/dmsc/fastbasic) FastBasic - Fast BASIC interpreter for the Atari 8-bit computers
+*  [libcmini](https://github.com/mfro0/libcmini) small footprint C standard library for Atari ST and m68k-atari-mint cross compiler toolchain
 ### Develop / Library
 *  [8bit-unity](http://8bit-unity.com/) 8bit-Unity is the cross-platform C language SDK for the CC65 compiler, which allows writing your game only once, and then deploy it on all those platforms
 *  [Atari8GUI](https://atari8.co.uk/gui/) A Graphical OS for the Atari 8-bit
