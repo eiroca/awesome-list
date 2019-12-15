@@ -14,11 +14,14 @@
 *  [xedisk](https://github.com/epi/xedisk) Atari XL/XE Disk Image Utility
 ### Develop
 *  [fastbasic](https://github.com/dmsc/fastbasic) FastBasic - Fast BASIC interpreter for the Atari 8-bit computers
+*  [Fusion-Forth](https://github.com/meshula/Fusion-Forth) A Forth interpreter/compiler and IDE for Atari ST
 *  [libcmini](https://github.com/mfro0/libcmini) small footprint C standard library for Atari ST and m68k-atari-mint cross compiler toolchain
 ### Develop / Library
 *  [8bit-unity](http://8bit-unity.com/) 8bit-Unity is the cross-platform C language SDK for the CC65 compiler, which allows writing your game only once, and then deploy it on all those platforms
 *  [Atari8GUI](https://atari8.co.uk/gui/) A Graphical OS for the Atari 8-bit
 *  [Renderific](https://github.com/savetz/Renderific) An SVG renderer for Atari 8-bit computers, written in Turbo-BASIC XL
+### Docs
+*  [Video](http://www.virtualdub.org/blog/pivot/entry.php?id=243) everse engineering Atari 8-bit video
 ### Emulator
 *  [sio2arduino](http://whizzosoftware.com/sio2arduino/) is an Atari 8-bit (800/XL/XE) device emulator that runs on the Arduino platform
 ### Emulator / Atari 8bit
@@ -30,6 +33,10 @@
 ### Emulator / Atari ST
 *  [Hatari](https://hatari.tuxfamily.org/) Hatari is an Atari ST/STE/TT/Falcon emulator for GNU/Linux, BSD, Mac OS X, Windows and other systems which are supported by the SDL library
 ### Software
+*  [Arkos-Tracker-2-ST](https://github.com/ggnkua/Arkos-Tracker-2-ST) Atari ST version of the replay source for Arkos Tracker 2
 *  [Atomchess-6502](https://github.com/nanochess/Atomchess-6502) Toledo Atomchess for Atari VCS/2600
+*  [emutos](https://github.com/emutos/emutos) EmuTOS is a Free operating system for Atari ST computers, and more
 *  [freemint](https://freemint.github.io/) Unix-like kernel for Atari ST and compatible computers
 *  [pop-a8](https://github.com/fa8ntomas/pop-a8) Prince of Persia port to Atari 8-bit
+### Source code
+*  [Atari_ST_Sources](https://github.com/ggnkua/Atari_ST_Sources) A large repository of Atari ST (and family) source code

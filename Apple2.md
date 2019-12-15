@@ -6,6 +6,7 @@
 ### Blog / Directory
 *  [1mhz](http://monsterfeet.com/1mhz/) Apple 2 podcast
 *  [a2blog](https://www.golombeck.eu/index.php?id=5) Apple 2 blog
+*  [a2central](https://a2central.com/) Blog
 *  [apl2bits](https://www.apl2bits.net/) Apple II Bits
 *  [APPLE CRAPPLE](http://apple-crapple.blogspot.com/) Adventures in Retro Computing, Hacking and Other Madness
 *  [Apple2 org](http://apple2.org/) The site contains over 500 images of Apple ][ Hardware and a few others as well
@@ -21,6 +22,7 @@
 *  [ctrl.pomme.reset](http://ctrl.pomme.reset.free.fr/) Apple 2 French blog
 *  [davidstancu](https://davidstancu.me/) How to write a text editor for a 31 year old computer
 *  [dreher](http://dreher.net/) Projects for Apple 2
+*  [EDHEL](http://apple2.org.za/gswv/USA2WUG/FOUNDING.MEMBERS/HOME.PAGES/EDHEL/) Edhel's Apple // Stuff: Main Page
 *  [finapple](https://finapple.hho.fi/finapple/) Apple 2 in Finland
 *  [Here](http://schmenk.is-a-geek.com/wordpress/) Apple 2 related project blog
 *  [Main_Page](https://wiki.reactivemicro.com/Main_Page) ReActiveMicro Apple II Wiki
@@ -178,6 +180,8 @@
 *  [greenscale](https://github.com/option8/greenscale) Low res monochrome experiments for Apple II
 *  [gslib](https://github.com/digarok/gslib) Apple IIgs Assembly Language Crash Course
 *  [mrbuffer](https://github.com/mach-kernel/mrbuffer) Apple IIgs simple 40char buffer editor. Written in 658c16 assembly
+### Docs
+*  [peek&pokes](http://apple2.org.za/gswv/USA2WUG/FOUNDING.MEMBERS/HOME.PAGES/EDHEL/texts/pokes.html) The Big PEEKs, POKEs, and CALLs List
 ### Emulator
 *  :thumbsup: [AppleWin](https://github.com/AppleWin/AppleWin) Apple ][ emulator for Windows
 *  :thumbsup: [Kegs](http://kegs.sourceforge.net/) Apple IIgs emulator for Mac OS X, Win32, Linux, and Unix/X11
@@ -212,6 +216,7 @@
 *  [gamebloke](https://github.com/prickle/gamebloke) Apple on the go. Take that gameboy!
 *  [goapple2](https://github.com/zellyn/goapple2) Apple ][+ emulator written in Go
 *  [grape](https://github.com/LemonBoy/grape) Apple ][ emulator for Nintendo DS
+*  [GSjs](https://github.com/jasonm76/GSjs) Apple IIGS Emulator written in 100% HTML5 and JavaScript
 *  [GSPlus](https://github.com/digarok/gsplus) Apple IIgs Emulator - Cross Platform - Modern Features
 *  [gsport](https://sourceforge.net/projects/gsport) Apple IIgs emulator based on Kent Dickey's KEGS
 *  [homebrew-appleii](https://github.com/lifepillar/homebrew-appleii) Homebrew formulae for Apple I/II/III/GS emulators, utilities and such
@@ -343,6 +348,7 @@
 *  [F15-DGamma-Clone-A2](https://github.com/C64CD/F15-DGamma-Clone-A2) Apple II crack intro style release
 *  [Factory-Game](https://github.com/bman12three4/Factory-Game) A factorio inspired game for the Apple IIc and Iie
 *  [festro](https://github.com/digarok/festro) Festro by Digarok - Apple II intro/demo with a KansasFest theme - 65c02 assembly
+*  [fr3nch.t0uch](http://fr3nch.t0uch.free.fr/) French touch demo vault
 *  [gameoflife-appleii](https://github.com/Pixinn/gameoflife-appleii) port of Conway's Game of Life for Apple II computers
 *  [GEOS](http://toastytech.com/guis/a2geos.html) GEOS For the Apple II
 *  [gno](https://github.com/GnoConsortium/gno) GNO is the UNIX-like environment for the Apple IIgs
@@ -360,6 +366,8 @@
 *  [mktrashdove](https://github.com/mouse6502/mktrashdove) Apple II Trash Dove (A Double Lores / BMP2DHR Tutorial)
 *  [MouseII](https://github.com/blondie7575/MouseII) A mouse driver for Apple II computers
 *  [mouse-maze](https://sourceforge.net/projects/mouse-maze) Mouse A.I. simulation for the Apple II computer
+*  [NetDisk](https://github.com/sheumann/NetDisk) NetDisk is an Apple IIGS utility that allows you to mount disks images hosted on an HTTP server
+*  [nox-archaist](https://www.6502workshop.com/p/nox-archaist.html) A modern era Apple II CRPG with boxed set
 *  [online](https://github.com/gungwald/online) Shows all online volumes on an Apple II computer
 *  [OREGON78](https://github.com/TedThompson/OREGON78) Applesoft BASIC port of the original Oregon Trail game from 1978
 *  [passport-test-suite](https://github.com/a2-4am/passport-test-suite) A collection of disk images to provide code coverage for Passport
@@ -383,6 +391,8 @@
 *  [sider-xebec-disassembly](https://github.com/FozzTexx/sider-xebec-disassembly) Disassembly of the Sider/Xebec SASI card ROM and tools for the Apple II
 *  [Snake](https://github.com/nlflint/Snake) Snake game
 *  [softwarelibrary_apple_games](https://archive.org/details/softwarelibrary_apple_games) Games and entertainment software for the Apple II
+*  [SpellWielder](https://crowcousins.weebly.com/spellwielder.html) SpellWielder brings the classic feel of an open-ended action+adventure game to the Apple II
+*  [Tales of Florb](https://florb1.weebly.com/) The Sparkstone: Tales of Florb, a choice-based adventure game for the Enhanced Apple //e, Apple //c, and Apple IIgs computer systems and emulators
 *  [tb1](https://github.com/deater/tb1) This is the git repository for all Tom Bombem related projects
 *  [tcpsnooper](https://github.com/ksherlock/tcpsnooper) Marinetti tcp snooper CDA
 *  [telnetd](https://github.com/sheumann/telnetd) Telnetd for GNO
