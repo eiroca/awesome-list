@@ -3,7 +3,7 @@
 ## Related
 * [Awesome List of 8080, Z80, ...  resources](z80.md)
 
-"### Blog
+### Blog
 *  [DAInamic](https://www.facebook.com/groups/431058947356275) Facebook group
 *  [Here](http://tomislavmikulic.com/freebooks.htm) Book that describes how the DAI computer was used in Sarajevo 1984 Olympic games
 *  [Here](http://www.progettoemma.net/mess/system.php?machine=dai) DAI Personal Computer
