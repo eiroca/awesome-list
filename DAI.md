@@ -15,6 +15,7 @@
 *  [DAI-Tools](https://github.com/eiroca/DAI-Tools) Tools to convert between different file format used by DAI
 ### Hardware
 *  :thumbsup: [DAI-SD-DOS](https://github.com/pit-le-rouge/DAI-SD-DOS) firmware of SD interface for DAI
+*  [DAI-SD-DOS](https://www.youtube.com/watch?v=b-DVGwDY3Gs) Presentation of the new SD-DOS solution for the old DAI computer. Now, the DAI user can use a SD Card to save, load, delete, copy etc... files and programs
 ### Resources
 *  :thumbsup: [Here](http://bruno.vivien.pagesperso-orange.fr/DAI/index.htm) Greatest collection of resources related to the DAI computer (French)
 *  [Here](https://fjkraan.home.xs4all.nl/comp/dai/index.html) DAI description and resources
